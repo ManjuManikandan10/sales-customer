@@ -2,7 +2,7 @@
 
 An interactive, professional sales dashboard built with Python (Streamlit and Plotly) for analyzing business performance across regions, categories, and timeframes.
 
-![Dashboard Preview](screenshots/dashboard_mockup.png)
+[![Dashboard Preview](screenshots/dashboard_output.png)](http://localhost:8501)
 
 ## Features
 - **Dynamic KPIs**: Instant view of Total Sales, Profit, Orders, and Marigin.
@@ -37,7 +37,7 @@ Sales_Dashboard_Project/
    ```
 4. **Run Dashboard**:
    ```bash
-   streamlit run app.py
+   python -m streamlit run app.py
    ```
 
 ## Technologies Used
