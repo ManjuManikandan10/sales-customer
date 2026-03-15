@@ -1,0 +1,1001 @@
+Order ID,Date,Region,Product,Category,Sales,Quantity,Profit,Profit Margin,Month-Year
+ORD-1001,2024-04-12,West,Headphones,Electronics,1663.14,8,231.18,0.139,Apr-2024
+ORD-1002,2024-08-02,East,Stapler,Office Supplies,68.57,4,18.01,0.2627,Aug-2024
+ORD-1003,2024-11-04,South,Table,Furniture,785.24,5,198.6,0.2529,Nov-2024
+ORD-1004,2024-09-09,West,Smartphone,Electronics,1637.33,10,562.32,0.3434,Sep-2024
+ORD-1005,2024-09-27,East,Folder,Office Supplies,147.34,9,37.11,0.2519,Sep-2024
+ORD-1006,2024-01-21,North,Paper,Office Supplies,94.15,4,22.67,0.2408,Jan-2024
+ORD-1007,2024-09-21,South,Laptop,Electronics,717.13,4,194.21,0.2708,Sep-2024
+ORD-1008,2024-09-20,East,Chair,Furniture,523.74,4,151.28,0.2888,Sep-2024
+ORD-1009,2025-01-24,South,Desk,Furniture,333.02,2,111.52,0.3349,Jan-2025
+ORD-1010,2024-09-26,West,Smartwatch,Electronics,406.35,2,100.24,0.2467,Sep-2024
+ORD-1011,2024-08-04,West,Smartphone,Electronics,161.25,1,33.19,0.2058,Aug-2024
+ORD-1012,2024-05-08,West,Binder,Office Supplies,64.96,3,18.34,0.2823,May-2024
+ORD-1013,2024-10-15,East,Laptop,Electronics,1484.6,7,488.05,0.3287,Oct-2024
+ORD-1014,2024-07-19,West,Chair,Furniture,970.61,7,175.97,0.1813,Jul-2024
+ORD-1015,2024-04-08,West,Sofa,Furniture,445.0,3,57.8,0.1299,Apr-2024
+ORD-1016,2024-05-10,North,Laptop,Electronics,1551.74,7,346.73,0.2234,May-2024
+ORD-1017,2025-01-27,South,Bookshelf,Furniture,365.66,3,94.74,0.2591,Jan-2025
+ORD-1018,2024-02-21,Central,Desk,Furniture,1093.86,7,257.01,0.235,Feb-2024
+ORD-1019,2024-01-29,West,Headphones,Electronics,518.69,3,172.43,0.3324,Jan-2024
+ORD-1020,2024-02-14,North,Tablet,Electronics,925.62,4,217.37,0.2348,Feb-2024
+ORD-1021,2024-12-13,North,Pen,Office Supplies,17.82,1,3.68,0.2065,Dec-2024
+ORD-1022,2024-04-25,Central,Headphones,Electronics,1212.21,7,283.08,0.2335,Apr-2024
+ORD-1023,2024-11-13,Central,Headphones,Electronics,1870.09,10,627.84,0.3357,Nov-2024
+ORD-1024,2025-01-08,North,Smartphone,Electronics,2369.96,10,386.17,0.1629,Jan-2025
+ORD-1025,2025-01-20,East,Smartwatch,Electronics,239.82,1,39.98,0.1667,Jan-2025
+ORD-1026,2024-01-02,South,Desk,Furniture,158.06,1,42.7,0.2702,Jan-2024
+ORD-1027,2024-02-22,West,Bookshelf,Furniture,1159.88,7,184.9,0.1594,Feb-2024
+ORD-1028,2024-09-11,Central,Sofa,Furniture,129.04,1,29.3,0.2271,Sep-2024
+ORD-1029,2024-12-14,East,Folder,Office Supplies,65.07,3,19.68,0.3024,Dec-2024
+ORD-1030,2024-05-27,West,Smartphone,Electronics,1527.51,8,510.47,0.3342,May-2024
+ORD-1031,2024-05-08,East,Smartphone,Electronics,467.95,2,149.43,0.3193,May-2024
+ORD-1032,2024-04-08,West,Chair,Furniture,607.12,4,97.42,0.1605,Apr-2024
+ORD-1033,2024-10-30,West,Smartwatch,Electronics,1309.86,7,245.34,0.1873,Oct-2024
+ORD-1034,2024-10-30,East,Chair,Furniture,1368.45,8,456.94,0.3339,Oct-2024
+ORD-1035,2025-02-23,West,Sofa,Furniture,1438.29,9,145.65,0.1013,Feb-2025
+ORD-1036,2025-01-18,South,Sofa,Furniture,1175.0,9,122.81,0.1045,Jan-2025
+ORD-1037,2025-02-01,Central,Binder,Office Supplies,18.46,1,4.35,0.2356,Feb-2025
+ORD-1038,2025-01-05,Central,Binder,Office Supplies,37.6,2,9.82,0.2612,Jan-2025
+ORD-1039,2025-01-01,North,Tablet,Electronics,617.28,3,180.33,0.2921,Jan-2025
+ORD-1040,2024-01-17,West,Desk,Furniture,865.05,5,248.21,0.2869,Jan-2024
+ORD-1041,2024-02-06,Central,Smartwatch,Electronics,715.28,3,85.0,0.1188,Feb-2024
+ORD-1042,2024-09-09,Central,Pen,Office Supplies,52.07,3,12.46,0.2393,Sep-2024
+ORD-1043,2024-08-10,South,Paper,Office Supplies,113.22,6,18.52,0.1636,Aug-2024
+ORD-1044,2025-01-20,South,Smartphone,Electronics,1945.79,9,369.45,0.1899,Jan-2025
+ORD-1045,2024-06-18,South,Paper,Office Supplies,188.03,9,22.64,0.1204,Jun-2024
+ORD-1046,2025-01-25,North,Tablet,Electronics,165.68,1,33.0,0.1992,Jan-2025
+ORD-1047,2024-05-21,West,Folder,Office Supplies,33.5,2,8.19,0.2445,May-2024
+ORD-1048,2024-12-07,East,Laptop,Electronics,1243.6,6,133.84,0.1076,Dec-2024
+ORD-1049,2024-06-28,South,Sofa,Furniture,756.67,5,221.32,0.2925,Jun-2024
+ORD-1050,2024-04-17,Central,Folder,Office Supplies,98.48,6,22.93,0.2328,Apr-2024
+ORD-1051,2024-02-16,East,Folder,Office Supplies,40.26,2,7.28,0.1808,Feb-2024
+ORD-1052,2024-05-24,East,Table,Furniture,655.3,5,78.78,0.1202,May-2024
+ORD-1053,2024-05-06,North,Smartphone,Electronics,2332.17,10,491.13,0.2106,May-2024
+ORD-1054,2024-04-05,North,Smartwatch,Electronics,236.39,1,67.25,0.2845,Apr-2024
+ORD-1055,2024-03-09,Central,Binder,Office Supplies,188.48,10,54.56,0.2895,Mar-2024
+ORD-1056,2024-07-03,Central,Bookshelf,Furniture,628.25,5,111.74,0.1779,Jul-2024
+ORD-1057,2024-07-22,South,Desk,Furniture,985.45,7,213.02,0.2162,Jul-2024
+ORD-1058,2024-12-22,South,Desk,Furniture,490.87,4,95.06,0.1937,Dec-2024
+ORD-1059,2024-09-06,East,Chair,Furniture,1276.17,8,179.6,0.1407,Sep-2024
+ORD-1060,2024-10-06,South,Tablet,Electronics,824.15,4,162.39,0.197,Oct-2024
+ORD-1061,2025-01-14,North,Smartwatch,Electronics,676.95,3,173.63,0.2565,Jan-2025
+ORD-1062,2024-03-05,North,Sofa,Furniture,244.68,2,62.29,0.2546,Mar-2024
+ORD-1063,2024-08-02,North,Desk,Furniture,1608.97,10,297.91,0.1852,Aug-2024
+ORD-1064,2024-04-24,North,Folder,Office Supplies,215.74,10,55.5,0.2573,Apr-2024
+ORD-1065,2025-02-16,West,Smartwatch,Electronics,1834.54,9,377.67,0.2059,Feb-2025
+ORD-1066,2025-02-11,East,Headphones,Electronics,759.05,4,223.24,0.2941,Feb-2025
+ORD-1067,2024-05-31,Central,Smartwatch,Electronics,1542.54,7,194.02,0.1258,May-2024
+ORD-1068,2024-09-29,North,Bookshelf,Furniture,1252.83,9,405.77,0.3239,Sep-2024
+ORD-1069,2024-06-25,West,Smartphone,Electronics,501.91,3,90.26,0.1798,Jun-2024
+ORD-1070,2024-07-24,West,Paper,Office Supplies,83.67,5,20.97,0.2506,Jul-2024
+ORD-1071,2025-01-13,Central,Smartphone,Electronics,1171.08,7,261.86,0.2236,Jan-2025
+ORD-1072,2025-02-26,South,Headphones,Electronics,1425.71,7,394.15,0.2765,Feb-2025
+ORD-1073,2024-08-26,West,Laptop,Electronics,2094.57,10,262.41,0.1253,Aug-2024
+ORD-1074,2024-01-07,Central,Chair,Furniture,347.03,2,47.42,0.1366,Jan-2024
+ORD-1075,2024-01-29,Central,Sofa,Furniture,1139.65,8,219.57,0.1927,Jan-2024
+ORD-1076,2024-05-24,North,Tablet,Electronics,760.4,4,91.91,0.1209,May-2024
+ORD-1077,2024-12-29,East,Table,Furniture,380.02,3,84.8,0.2231,Dec-2024
+ORD-1078,2024-05-20,South,Table,Furniture,508.52,4,65.79,0.1294,May-2024
+ORD-1079,2024-12-26,North,Stapler,Office Supplies,170.99,9,29.31,0.1714,Dec-2024
+ORD-1080,2024-11-07,North,Desk,Furniture,1008.76,6,347.49,0.3445,Nov-2024
+ORD-1081,2024-06-21,Central,Stapler,Office Supplies,140.38,6,46.29,0.3297,Jun-2024
+ORD-1082,2024-06-12,East,Folder,Office Supplies,181.66,9,46.75,0.2573,Jun-2024
+ORD-1083,2024-01-14,North,Headphones,Electronics,1145.45,7,195.0,0.1702,Jan-2024
+ORD-1084,2024-08-11,West,Laptop,Electronics,788.38,4,148.48,0.1883,Aug-2024
+ORD-1085,2024-06-26,West,Smartphone,Electronics,955.59,4,262.35,0.2745,Jun-2024
+ORD-1086,2024-05-24,North,Smartwatch,Electronics,832.89,4,139.71,0.1677,May-2024
+ORD-1087,2025-01-31,East,Laptop,Electronics,654.17,3,165.74,0.2534,Jan-2025
+ORD-1088,2024-01-10,South,Stapler,Office Supplies,81.05,5,15.73,0.1941,Jan-2024
+ORD-1089,2024-03-05,South,Pen,Office Supplies,109.98,5,21.8,0.1982,Mar-2024
+ORD-1090,2024-11-10,East,Smartwatch,Electronics,197.5,1,40.23,0.2037,Nov-2024
+ORD-1091,2025-01-19,Central,Folder,Office Supplies,20.27,1,5.83,0.2876,Jan-2025
+ORD-1092,2024-09-15,Central,Stapler,Office Supplies,117.79,5,36.8,0.3124,Sep-2024
+ORD-1093,2024-05-24,Central,Chair,Furniture,177.24,1,44.58,0.2515,May-2024
+ORD-1094,2025-01-03,South,Paper,Office Supplies,201.62,10,59.09,0.2931,Jan-2025
+ORD-1095,2025-01-13,South,Tablet,Electronics,835.36,5,248.9,0.298,Jan-2025
+ORD-1096,2025-02-04,Central,Laptop,Electronics,696.76,3,177.2,0.2543,Feb-2025
+ORD-1097,2024-08-13,South,Table,Furniture,522.75,3,97.79,0.1871,Aug-2024
+ORD-1098,2024-06-14,North,Folder,Office Supplies,141.32,7,38.78,0.2744,Jun-2024
+ORD-1099,2024-10-11,West,Chair,Furniture,1661.35,10,193.65,0.1166,Oct-2024
+ORD-1100,2024-03-09,South,Desk,Furniture,279.45,2,72.2,0.2584,Mar-2024
+ORD-1101,2024-08-27,East,Pen,Office Supplies,119.17,7,16.44,0.138,Aug-2024
+ORD-1102,2025-01-08,West,Headphones,Electronics,603.66,3,207.22,0.3433,Jan-2025
+ORD-1103,2024-03-01,South,Binder,Office Supplies,86.76,5,14.72,0.1697,Mar-2024
+ORD-1104,2024-11-12,Central,Chair,Furniture,738.23,5,111.9,0.1516,Nov-2024
+ORD-1105,2024-02-03,North,Table,Furniture,1129.84,9,248.89,0.2203,Feb-2024
+ORD-1106,2024-08-01,East,Stapler,Office Supplies,18.22,1,5.49,0.3013,Aug-2024
+ORD-1107,2024-04-22,East,Tablet,Electronics,1590.09,8,404.78,0.2546,Apr-2024
+ORD-1108,2024-03-18,South,Laptop,Electronics,1365.19,8,371.05,0.2718,Mar-2024
+ORD-1109,2025-02-10,East,Folder,Office Supplies,39.16,2,9.13,0.2331,Feb-2025
+ORD-1110,2024-01-15,North,Stapler,Office Supplies,205.12,10,63.62,0.3102,Jan-2024
+ORD-1111,2024-03-26,South,Bookshelf,Furniture,1560.88,9,387.72,0.2484,Mar-2024
+ORD-1112,2024-03-08,South,Pen,Office Supplies,33.39,2,7.82,0.2342,Mar-2024
+ORD-1113,2024-02-03,North,Paper,Office Supplies,168.3,9,54.68,0.3249,Feb-2024
+ORD-1114,2024-11-15,South,Binder,Office Supplies,125.08,6,19.93,0.1593,Nov-2024
+ORD-1115,2024-05-29,Central,Bookshelf,Furniture,1390.45,8,166.94,0.1201,May-2024
+ORD-1116,2024-08-30,Central,Paper,Office Supplies,95.02,4,30.06,0.3164,Aug-2024
+ORD-1117,2024-05-13,North,Sofa,Furniture,1467.97,9,343.15,0.2338,May-2024
+ORD-1118,2024-01-26,East,Tablet,Electronics,874.82,5,158.27,0.1809,Jan-2024
+ORD-1119,2024-10-01,West,Tablet,Electronics,202.39,1,56.02,0.2768,Oct-2024
+ORD-1120,2024-05-21,Central,Sofa,Furniture,556.95,4,138.39,0.2485,May-2024
+ORD-1121,2025-01-24,South,Desk,Furniture,1070.55,7,161.05,0.1504,Jan-2025
+ORD-1122,2024-06-16,South,Smartwatch,Electronics,1987.36,9,494.67,0.2489,Jun-2024
+ORD-1123,2025-02-11,East,Chair,Furniture,849.19,5,289.79,0.3413,Feb-2025
+ORD-1124,2024-11-29,Central,Pen,Office Supplies,34.9,2,4.07,0.1166,Nov-2024
+ORD-1125,2024-10-22,West,Headphones,Electronics,1980.36,9,593.88,0.2999,Oct-2024
+ORD-1126,2024-10-17,Central,Smartwatch,Electronics,639.65,3,147.61,0.2308,Oct-2024
+ORD-1127,2024-05-11,North,Laptop,Electronics,1931.75,9,411.44,0.213,May-2024
+ORD-1128,2024-04-13,East,Smartphone,Electronics,1365.7,7,333.74,0.2444,Apr-2024
+ORD-1129,2024-05-24,North,Paper,Office Supplies,116.26,5,29.77,0.2561,May-2024
+ORD-1130,2024-07-16,East,Binder,Office Supplies,172.4,8,24.43,0.1417,Jul-2024
+ORD-1131,2024-04-20,Central,Tablet,Electronics,1440.96,7,503.5,0.3494,Apr-2024
+ORD-1132,2024-04-06,Central,Headphones,Electronics,1200.15,7,181.39,0.1511,Apr-2024
+ORD-1133,2024-11-17,South,Headphones,Electronics,1873.67,10,572.06,0.3053,Nov-2024
+ORD-1134,2024-06-07,West,Tablet,Electronics,1601.46,8,376.29,0.235,Jun-2024
+ORD-1135,2024-06-05,West,Laptop,Electronics,646.55,3,152.38,0.2357,Jun-2024
+ORD-1136,2024-10-25,East,Tablet,Electronics,1874.02,10,293.92,0.1568,Oct-2024
+ORD-1137,2024-01-23,South,Sofa,Furniture,1551.74,10,351.43,0.2265,Jan-2024
+ORD-1138,2024-04-20,West,Folder,Office Supplies,93.4,4,27.79,0.2975,Apr-2024
+ORD-1139,2024-10-19,South,Tablet,Electronics,1655.14,10,197.51,0.1193,Oct-2024
+ORD-1140,2024-10-22,North,Sofa,Furniture,891.58,7,141.74,0.159,Oct-2024
+ORD-1141,2024-12-11,West,Chair,Furniture,172.19,1,39.55,0.2297,Dec-2024
+ORD-1142,2025-02-27,Central,Pen,Office Supplies,93.41,5,28.09,0.3007,Feb-2025
+ORD-1143,2024-04-26,South,Headphones,Electronics,811.97,4,267.92,0.33,Apr-2024
+ORD-1144,2025-01-20,South,Paper,Office Supplies,20.7,1,2.24,0.1082,Jan-2025
+ORD-1145,2024-09-07,East,Chair,Furniture,909.52,7,98.66,0.1085,Sep-2024
+ORD-1146,2024-06-09,North,Headphones,Electronics,1065.65,6,163.23,0.1532,Jun-2024
+ORD-1147,2024-02-18,North,Smartphone,Electronics,772.68,4,93.75,0.1213,Feb-2024
+ORD-1148,2024-07-07,North,Pen,Office Supplies,135.9,7,40.76,0.2999,Jul-2024
+ORD-1149,2024-11-13,Central,Smartwatch,Electronics,1655.97,8,287.33,0.1735,Nov-2024
+ORD-1150,2025-01-05,South,Bookshelf,Furniture,144.05,1,34.56,0.2399,Jan-2025
+ORD-1151,2024-11-14,West,Smartwatch,Electronics,1649.82,7,318.96,0.1933,Nov-2024
+ORD-1152,2024-12-31,South,Tablet,Electronics,458.72,2,92.66,0.202,Dec-2024
+ORD-1153,2024-11-08,East,Binder,Office Supplies,134.66,8,40.4,0.3,Nov-2024
+ORD-1154,2024-03-07,East,Tablet,Electronics,1343.64,8,216.05,0.1608,Mar-2024
+ORD-1155,2024-03-18,East,Smartwatch,Electronics,1621.95,7,167.47,0.1033,Mar-2024
+ORD-1156,2024-09-19,North,Stapler,Office Supplies,50.95,3,16.26,0.3191,Sep-2024
+ORD-1157,2024-10-11,West,Table,Furniture,169.05,1,31.35,0.1854,Oct-2024
+ORD-1158,2024-08-21,South,Folder,Office Supplies,83.97,4,16.99,0.2023,Aug-2024
+ORD-1159,2024-08-09,North,Desk,Furniture,530.72,3,154.39,0.2909,Aug-2024
+ORD-1160,2024-10-06,North,Sofa,Furniture,1175.94,7,242.6,0.2063,Oct-2024
+ORD-1161,2024-04-24,North,Chair,Furniture,1295.45,8,259.92,0.2006,Apr-2024
+ORD-1162,2024-07-19,East,Bookshelf,Furniture,1515.41,10,216.58,0.1429,Jul-2024
+ORD-1163,2024-08-02,Central,Paper,Office Supplies,112.6,5,25.28,0.2245,Aug-2024
+ORD-1164,2024-02-03,North,Smartphone,Electronics,1358.28,6,205.92,0.1516,Feb-2024
+ORD-1165,2024-12-27,Central,Pen,Office Supplies,131.14,6,21.33,0.1627,Dec-2024
+ORD-1166,2024-08-24,North,Laptop,Electronics,193.5,1,37.88,0.1958,Aug-2024
+ORD-1167,2024-05-01,South,Sofa,Furniture,124.97,1,31.34,0.2508,May-2024
+ORD-1168,2024-10-08,Central,Headphones,Electronics,1559.8,8,512.98,0.3289,Oct-2024
+ORD-1169,2024-07-05,East,Table,Furniture,1118.74,7,373.89,0.3342,Jul-2024
+ORD-1170,2024-03-09,North,Bookshelf,Furniture,518.88,4,161.05,0.3104,Mar-2024
+ORD-1171,2024-12-02,East,Headphones,Electronics,419.73,2,91.74,0.2186,Dec-2024
+ORD-1172,2024-03-13,North,Smartphone,Electronics,1947.55,9,486.05,0.2496,Mar-2024
+ORD-1173,2024-01-25,East,Paper,Office Supplies,80.09,5,27.38,0.3419,Jan-2024
+ORD-1174,2024-04-11,South,Stapler,Office Supplies,17.09,1,5.77,0.3376,Apr-2024
+ORD-1175,2024-11-06,North,Folder,Office Supplies,176.54,8,45.85,0.2597,Nov-2024
+ORD-1176,2024-03-21,Central,Chair,Furniture,298.73,2,46.39,0.1553,Mar-2024
+ORD-1177,2025-02-13,North,Laptop,Electronics,2070.61,10,724.38,0.3498,Feb-2025
+ORD-1178,2024-10-08,Central,Table,Furniture,854.26,7,234.37,0.2744,Oct-2024
+ORD-1179,2024-05-16,East,Sofa,Furniture,1174.04,7,336.09,0.2863,May-2024
+ORD-1180,2025-01-06,East,Sofa,Furniture,1586.73,10,416.58,0.2625,Jan-2025
+ORD-1181,2024-05-31,East,Laptop,Electronics,647.11,3,119.7,0.185,May-2024
+ORD-1182,2024-07-01,West,Pen,Office Supplies,89.3,4,16.05,0.1797,Jul-2024
+ORD-1183,2024-07-28,North,Laptop,Electronics,323.9,2,102.85,0.3175,Jul-2024
+ORD-1184,2025-02-17,East,Stapler,Office Supplies,47.03,2,14.09,0.2996,Feb-2025
+ORD-1185,2024-02-08,West,Smartphone,Electronics,991.91,5,243.21,0.2452,Feb-2024
+ORD-1186,2024-08-23,North,Chair,Furniture,1059.46,7,299.9,0.2831,Aug-2024
+ORD-1187,2024-06-25,East,Laptop,Electronics,868.98,4,214.88,0.2473,Jun-2024
+ORD-1188,2024-07-11,Central,Chair,Furniture,143.5,1,18.81,0.1311,Jul-2024
+ORD-1189,2024-07-05,South,Smartwatch,Electronics,835.76,5,170.83,0.2044,Jul-2024
+ORD-1190,2024-11-14,East,Desk,Furniture,260.04,2,90.44,0.3478,Nov-2024
+ORD-1191,2024-02-28,West,Smartwatch,Electronics,603.05,3,95.08,0.1577,Feb-2024
+ORD-1192,2024-08-13,North,Chair,Furniture,177.44,1,54.39,0.3065,Aug-2024
+ORD-1193,2024-01-05,Central,Chair,Furniture,1580.99,9,551.33,0.3487,Jan-2024
+ORD-1194,2024-03-01,East,Sofa,Furniture,298.94,2,104.36,0.3491,Mar-2024
+ORD-1195,2024-01-03,East,Desk,Furniture,1318.98,8,143.39,0.1087,Jan-2024
+ORD-1196,2024-03-08,Central,Sofa,Furniture,1291.23,9,217.24,0.1682,Mar-2024
+ORD-1197,2024-01-29,North,Pen,Office Supplies,45.79,2,13.85,0.3025,Jan-2024
+ORD-1198,2024-02-09,North,Headphones,Electronics,385.35,2,74.44,0.1932,Feb-2024
+ORD-1199,2024-11-23,East,Laptop,Electronics,332.97,2,51.63,0.1551,Nov-2024
+ORD-1200,2024-10-10,Central,Smartphone,Electronics,399.22,2,87.89,0.2202,Oct-2024
+ORD-1201,2024-12-14,East,Sofa,Furniture,1277.81,8,301.49,0.2359,Dec-2024
+ORD-1202,2024-08-24,North,Sofa,Furniture,1077.74,8,150.17,0.1393,Aug-2024
+ORD-1203,2024-10-30,North,Headphones,Electronics,2109.67,9,266.79,0.1265,Oct-2024
+ORD-1204,2024-06-03,West,Stapler,Office Supplies,197.24,10,63.07,0.3198,Jun-2024
+ORD-1205,2025-01-28,East,Laptop,Electronics,817.98,4,236.53,0.2892,Jan-2025
+ORD-1206,2024-01-12,South,Headphones,Electronics,204.79,1,26.41,0.129,Jan-2024
+ORD-1207,2024-12-19,West,Headphones,Electronics,1096.0,6,114.65,0.1046,Dec-2024
+ORD-1208,2024-08-20,South,Folder,Office Supplies,84.1,5,28.12,0.3344,Aug-2024
+ORD-1209,2024-12-17,West,Bookshelf,Furniture,166.26,1,46.08,0.2772,Dec-2024
+ORD-1210,2025-01-08,North,Table,Furniture,981.96,8,312.15,0.3179,Jan-2025
+ORD-1211,2024-07-10,Central,Binder,Office Supplies,88.26,4,9.37,0.1062,Jul-2024
+ORD-1212,2025-01-29,North,Sofa,Furniture,1200.62,10,167.77,0.1397,Jan-2025
+ORD-1213,2024-08-13,Central,Headphones,Electronics,1557.81,9,465.32,0.2987,Aug-2024
+ORD-1214,2024-06-05,East,Bookshelf,Furniture,767.28,6,243.24,0.317,Jun-2024
+ORD-1215,2025-01-16,West,Smartwatch,Electronics,1055.41,5,210.45,0.1994,Jan-2025
+ORD-1216,2025-01-21,East,Laptop,Electronics,1070.38,6,164.06,0.1533,Jan-2025
+ORD-1217,2024-11-15,North,Tablet,Electronics,458.3,2,100.05,0.2183,Nov-2024
+ORD-1218,2024-03-12,West,Chair,Furniture,125.47,1,17.37,0.1384,Mar-2024
+ORD-1219,2024-01-27,South,Binder,Office Supplies,116.47,5,39.82,0.3419,Jan-2024
+ORD-1220,2025-02-07,North,Chair,Furniture,583.27,4,87.57,0.1501,Feb-2025
+ORD-1221,2024-11-14,Central,Laptop,Electronics,1557.28,8,538.96,0.3461,Nov-2024
+ORD-1222,2024-07-27,Central,Table,Furniture,825.0,6,225.84,0.2737,Jul-2024
+ORD-1223,2024-10-15,West,Chair,Furniture,1307.66,8,375.68,0.2873,Oct-2024
+ORD-1224,2024-02-10,North,Tablet,Electronics,750.73,4,220.68,0.294,Feb-2024
+ORD-1225,2024-08-29,West,Laptop,Electronics,167.03,1,31.34,0.1876,Aug-2024
+ORD-1226,2025-02-20,Central,Table,Furniture,924.31,6,251.75,0.2724,Feb-2025
+ORD-1227,2024-05-22,South,Bookshelf,Furniture,177.09,1,23.21,0.1311,May-2024
+ORD-1228,2024-05-02,North,Chair,Furniture,1097.44,7,191.73,0.1747,May-2024
+ORD-1229,2024-07-22,South,Bookshelf,Furniture,1117.54,7,266.25,0.2382,Jul-2024
+ORD-1230,2025-01-24,South,Table,Furniture,367.34,3,51.79,0.141,Jan-2025
+ORD-1231,2024-01-14,East,Bookshelf,Furniture,1113.12,7,244.69,0.2198,Jan-2024
+ORD-1232,2024-08-30,South,Folder,Office Supplies,183.8,8,38.31,0.2084,Aug-2024
+ORD-1233,2024-10-14,East,Table,Furniture,401.12,3,140.02,0.3491,Oct-2024
+ORD-1234,2024-12-26,East,Folder,Office Supplies,192.26,10,29.83,0.1552,Dec-2024
+ORD-1235,2024-07-25,North,Folder,Office Supplies,22.95,1,6.47,0.2819,Jul-2024
+ORD-1236,2024-01-24,West,Tablet,Electronics,801.55,4,189.03,0.2358,Jan-2024
+ORD-1237,2024-04-05,North,Desk,Furniture,298.4,2,95.0,0.3184,Apr-2024
+ORD-1238,2025-02-21,West,Table,Furniture,466.62,3,153.09,0.3281,Feb-2025
+ORD-1239,2024-09-24,East,Laptop,Electronics,1815.04,8,288.5,0.1589,Sep-2024
+ORD-1240,2024-10-08,West,Table,Furniture,261.72,2,82.07,0.3136,Oct-2024
+ORD-1241,2024-02-10,West,Smartphone,Electronics,829.74,4,116.89,0.1409,Feb-2024
+ORD-1242,2025-01-13,North,Tablet,Electronics,457.28,2,46.76,0.1023,Jan-2025
+ORD-1243,2025-02-27,West,Headphones,Electronics,1658.8,10,236.28,0.1424,Feb-2025
+ORD-1244,2024-04-02,South,Chair,Furniture,146.97,1,36.3,0.247,Apr-2024
+ORD-1245,2024-01-01,North,Bookshelf,Furniture,1406.99,9,266.18,0.1892,Jan-2024
+ORD-1246,2024-07-22,Central,Smartphone,Electronics,1795.63,8,442.33,0.2463,Jul-2024
+ORD-1247,2024-07-25,West,Stapler,Office Supplies,72.63,4,8.3,0.1143,Jul-2024
+ORD-1248,2024-10-19,West,Desk,Furniture,127.33,1,27.13,0.2131,Oct-2024
+ORD-1249,2024-09-01,East,Smartphone,Electronics,206.77,1,56.25,0.272,Sep-2024
+ORD-1250,2024-10-02,Central,Sofa,Furniture,278.78,2,95.7,0.3433,Oct-2024
+ORD-1251,2024-02-08,East,Bookshelf,Furniture,770.27,6,82.8,0.1075,Feb-2024
+ORD-1252,2024-10-27,West,Table,Furniture,908.2,7,133.58,0.1471,Oct-2024
+ORD-1253,2024-09-20,Central,Desk,Furniture,811.91,6,215.49,0.2654,Sep-2024
+ORD-1254,2024-04-28,South,Paper,Office Supplies,35.91,2,11.05,0.3077,Apr-2024
+ORD-1255,2024-10-29,North,Pen,Office Supplies,85.65,4,13.18,0.1539,Oct-2024
+ORD-1256,2024-05-21,Central,Smartphone,Electronics,1878.86,10,262.71,0.1398,May-2024
+ORD-1257,2024-07-10,North,Smartphone,Electronics,2066.94,9,610.98,0.2956,Jul-2024
+ORD-1258,2024-03-17,North,Folder,Office Supplies,38.47,2,6.99,0.1817,Mar-2024
+ORD-1259,2024-04-11,East,Table,Furniture,345.35,2,61.92,0.1793,Apr-2024
+ORD-1260,2024-12-30,East,Smartphone,Electronics,929.83,5,178.17,0.1916,Dec-2024
+ORD-1261,2024-07-17,Central,Folder,Office Supplies,186.95,9,44.2,0.2364,Jul-2024
+ORD-1262,2024-10-17,West,Table,Furniture,390.32,3,101.73,0.2606,Oct-2024
+ORD-1263,2024-09-21,East,Laptop,Electronics,1612.21,8,354.36,0.2198,Sep-2024
+ORD-1264,2024-04-26,Central,Chair,Furniture,719.65,5,176.35,0.245,Apr-2024
+ORD-1265,2024-10-26,West,Binder,Office Supplies,157.53,7,44.03,0.2795,Oct-2024
+ORD-1266,2025-01-13,East,Smartwatch,Electronics,1361.28,7,441.3,0.3242,Jan-2025
+ORD-1267,2024-04-26,West,Pen,Office Supplies,93.67,4,10.78,0.1151,Apr-2024
+ORD-1268,2024-10-03,Central,Sofa,Furniture,259.96,2,66.12,0.2543,Oct-2024
+ORD-1269,2025-01-07,West,Sofa,Furniture,464.57,3,56.87,0.1224,Jan-2025
+ORD-1270,2024-06-06,South,Chair,Furniture,677.56,4,156.26,0.2306,Jun-2024
+ORD-1271,2024-09-19,West,Desk,Furniture,964.02,7,287.62,0.2984,Sep-2024
+ORD-1272,2024-10-24,West,Chair,Furniture,1212.72,8,155.32,0.1281,Oct-2024
+ORD-1273,2024-05-20,Central,Bookshelf,Furniture,1508.62,9,394.73,0.2616,May-2024
+ORD-1274,2025-01-12,North,Laptop,Electronics,1772.76,8,423.97,0.2392,Jan-2025
+ORD-1275,2024-12-12,Central,Sofa,Furniture,581.7,4,155.25,0.2669,Dec-2024
+ORD-1276,2024-05-25,East,Chair,Furniture,1086.38,7,154.27,0.142,May-2024
+ORD-1277,2024-04-17,South,Smartwatch,Electronics,174.28,1,31.03,0.178,Apr-2024
+ORD-1278,2025-02-22,West,Binder,Office Supplies,180.55,10,46.58,0.258,Feb-2025
+ORD-1279,2024-09-10,North,Sofa,Furniture,1131.96,7,227.61,0.2011,Sep-2024
+ORD-1280,2025-01-08,Central,Pen,Office Supplies,16.13,1,2.99,0.1854,Jan-2025
+ORD-1281,2024-10-28,East,Table,Furniture,1164.5,7,193.57,0.1662,Oct-2024
+ORD-1282,2024-08-16,North,Pen,Office Supplies,151.49,8,28.16,0.1859,Aug-2024
+ORD-1283,2024-07-14,Central,Tablet,Electronics,427.14,2,50.18,0.1175,Jul-2024
+ORD-1284,2024-06-08,Central,Table,Furniture,455.93,3,82.56,0.1811,Jun-2024
+ORD-1285,2024-09-15,South,Folder,Office Supplies,37.81,2,13.19,0.3488,Sep-2024
+ORD-1286,2024-10-12,West,Bookshelf,Furniture,1774.58,10,255.23,0.1438,Oct-2024
+ORD-1287,2024-10-13,North,Paper,Office Supplies,203.17,9,20.38,0.1003,Oct-2024
+ORD-1288,2025-02-03,West,Stapler,Office Supplies,134.36,7,18.56,0.1381,Feb-2025
+ORD-1289,2024-01-05,West,Smartphone,Electronics,837.17,5,137.52,0.1643,Jan-2024
+ORD-1290,2024-08-18,North,Tablet,Electronics,1036.47,6,120.0,0.1158,Aug-2024
+ORD-1291,2024-10-18,North,Paper,Office Supplies,38.09,2,7.11,0.1867,Oct-2024
+ORD-1292,2024-09-05,North,Headphones,Electronics,575.28,3,121.84,0.2118,Sep-2024
+ORD-1293,2024-07-14,South,Binder,Office Supplies,119.85,6,41.71,0.348,Jul-2024
+ORD-1294,2024-04-10,West,Bookshelf,Furniture,126.98,1,38.65,0.3044,Apr-2024
+ORD-1295,2024-10-17,South,Sofa,Furniture,967.97,7,116.38,0.1202,Oct-2024
+ORD-1296,2025-02-08,East,Sofa,Furniture,266.83,2,90.54,0.3393,Feb-2025
+ORD-1297,2024-09-12,South,Laptop,Electronics,1785.14,9,318.53,0.1784,Sep-2024
+ORD-1298,2024-04-04,North,Desk,Furniture,600.62,4,119.92,0.1997,Apr-2024
+ORD-1299,2024-01-25,Central,Laptop,Electronics,1586.07,8,359.29,0.2265,Jan-2024
+ORD-1300,2024-03-19,West,Tablet,Electronics,780.64,4,98.69,0.1264,Mar-2024
+ORD-1301,2025-01-24,Central,Paper,Office Supplies,120.51,7,13.9,0.1153,Jan-2025
+ORD-1302,2025-02-21,South,Laptop,Electronics,329.24,2,90.13,0.2738,Feb-2025
+ORD-1303,2024-03-23,North,Stapler,Office Supplies,200.35,9,33.33,0.1664,Mar-2024
+ORD-1304,2024-09-19,West,Tablet,Electronics,958.94,4,291.03,0.3035,Sep-2024
+ORD-1305,2024-12-24,West,Tablet,Electronics,808.65,4,167.0,0.2065,Dec-2024
+ORD-1306,2024-03-03,Central,Stapler,Office Supplies,56.83,3,11.57,0.2036,Mar-2024
+ORD-1307,2024-01-14,Central,Smartwatch,Electronics,1353.05,7,298.13,0.2203,Jan-2024
+ORD-1308,2024-09-02,Central,Table,Furniture,1216.95,8,187.17,0.1538,Sep-2024
+ORD-1309,2024-07-31,South,Desk,Furniture,659.66,5,76.62,0.1162,Jul-2024
+ORD-1310,2024-06-08,West,Headphones,Electronics,203.84,1,43.54,0.2136,Jun-2024
+ORD-1311,2024-11-03,Central,Bookshelf,Furniture,278.96,2,79.32,0.2843,Nov-2024
+ORD-1312,2024-08-19,East,Smartwatch,Electronics,915.06,4,181.27,0.1981,Aug-2024
+ORD-1313,2024-02-11,Central,Smartphone,Electronics,212.7,1,71.41,0.3357,Feb-2024
+ORD-1314,2024-05-09,West,Smartphone,Electronics,2344.26,10,382.73,0.1633,May-2024
+ORD-1315,2024-08-19,Central,Paper,Office Supplies,185.29,8,48.02,0.2592,Aug-2024
+ORD-1316,2024-03-19,North,Stapler,Office Supplies,50.54,3,17.54,0.3471,Mar-2024
+ORD-1317,2024-03-27,Central,Smartphone,Electronics,1521.14,7,179.53,0.118,Mar-2024
+ORD-1318,2025-02-11,East,Smartwatch,Electronics,876.0,4,164.96,0.1883,Feb-2025
+ORD-1319,2024-12-31,West,Folder,Office Supplies,63.87,3,9.34,0.1462,Dec-2024
+ORD-1320,2024-09-17,Central,Table,Furniture,749.74,6,171.44,0.2287,Sep-2024
+ORD-1321,2024-12-02,North,Laptop,Electronics,321.67,2,52.71,0.1639,Dec-2024
+ORD-1322,2024-11-19,North,Smartphone,Electronics,1982.6,10,642.27,0.324,Nov-2024
+ORD-1323,2024-09-22,Central,Paper,Office Supplies,119.33,6,39.39,0.3301,Sep-2024
+ORD-1324,2025-02-03,West,Sofa,Furniture,1402.96,10,465.81,0.332,Feb-2025
+ORD-1325,2024-07-01,North,Headphones,Electronics,2090.35,10,701.87,0.3358,Jul-2024
+ORD-1326,2025-02-17,West,Tablet,Electronics,692.86,3,181.15,0.2615,Feb-2025
+ORD-1327,2024-05-01,North,Laptop,Electronics,1102.02,5,237.08,0.2151,May-2024
+ORD-1328,2025-01-26,West,Binder,Office Supplies,211.49,9,23.43,0.1108,Jan-2025
+ORD-1329,2024-09-14,Central,Tablet,Electronics,354.16,2,80.2,0.2265,Sep-2024
+ORD-1330,2024-03-28,West,Headphones,Electronics,1036.14,5,235.3,0.2271,Mar-2024
+ORD-1331,2024-07-09,East,Stapler,Office Supplies,144.32,7,46.08,0.3193,Jul-2024
+ORD-1332,2024-08-16,South,Chair,Furniture,864.44,5,146.5,0.1695,Aug-2024
+ORD-1333,2024-08-11,South,Sofa,Furniture,1379.75,9,390.84,0.2833,Aug-2024
+ORD-1334,2024-08-18,East,Paper,Office Supplies,171.02,9,40.13,0.2347,Aug-2024
+ORD-1335,2025-02-23,South,Table,Furniture,1019.76,6,104.79,0.1028,Feb-2025
+ORD-1336,2024-04-30,South,Smartphone,Electronics,744.62,4,102.18,0.1372,Apr-2024
+ORD-1337,2024-03-10,East,Laptop,Electronics,763.32,4,199.11,0.2608,Mar-2024
+ORD-1338,2025-01-28,East,Desk,Furniture,868.54,6,237.9,0.2739,Jan-2025
+ORD-1339,2025-02-08,South,Bookshelf,Furniture,1289.34,9,258.62,0.2006,Feb-2025
+ORD-1340,2024-03-11,West,Headphones,Electronics,1346.65,8,210.56,0.1564,Mar-2024
+ORD-1341,2025-01-22,South,Table,Furniture,408.57,3,125.13,0.3063,Jan-2025
+ORD-1342,2024-10-31,East,Desk,Furniture,1624.61,10,482.76,0.2972,Oct-2024
+ORD-1343,2024-07-10,East,Tablet,Electronics,1531.88,7,243.51,0.159,Jul-2024
+ORD-1344,2024-11-14,West,Headphones,Electronics,2111.84,9,550.43,0.2606,Nov-2024
+ORD-1345,2025-02-04,West,Binder,Office Supplies,143.57,6,41.18,0.2868,Feb-2025
+ORD-1346,2024-12-24,North,Desk,Furniture,1385.4,9,477.84,0.3449,Dec-2024
+ORD-1347,2024-09-15,Central,Pen,Office Supplies,109.11,6,25.04,0.2295,Sep-2024
+ORD-1348,2024-12-30,East,Headphones,Electronics,2282.18,10,356.9,0.1564,Dec-2024
+ORD-1349,2024-03-09,Central,Tablet,Electronics,194.81,1,65.13,0.3343,Mar-2024
+ORD-1350,2024-12-21,South,Table,Furniture,438.63,3,123.86,0.2824,Dec-2024
+ORD-1351,2024-11-21,North,Bookshelf,Furniture,1485.74,9,392.59,0.2642,Nov-2024
+ORD-1352,2024-02-05,Central,Bookshelf,Furniture,1369.31,10,226.52,0.1654,Feb-2024
+ORD-1353,2024-06-11,West,Table,Furniture,874.4,6,272.11,0.3112,Jun-2024
+ORD-1354,2024-03-10,West,Smartwatch,Electronics,650.76,4,75.27,0.1157,Mar-2024
+ORD-1355,2024-09-06,East,Smartwatch,Electronics,740.86,4,217.05,0.293,Sep-2024
+ORD-1356,2024-03-10,South,Folder,Office Supplies,163.85,8,54.76,0.3342,Mar-2024
+ORD-1357,2024-06-02,West,Chair,Furniture,894.39,5,146.8,0.1641,Jun-2024
+ORD-1358,2024-05-10,South,Smartphone,Electronics,554.09,3,186.59,0.3368,May-2024
+ORD-1359,2025-01-30,North,Smartphone,Electronics,172.1,1,26.9,0.1563,Jan-2025
+ORD-1360,2024-11-22,North,Smartwatch,Electronics,384.64,2,90.64,0.2356,Nov-2024
+ORD-1361,2025-02-26,North,Laptop,Electronics,1068.55,6,333.1,0.3117,Feb-2025
+ORD-1362,2024-11-25,Central,Laptop,Electronics,1367.99,6,365.6,0.2673,Nov-2024
+ORD-1363,2024-04-07,East,Tablet,Electronics,1783.66,8,228.28,0.128,Apr-2024
+ORD-1364,2024-02-28,South,Binder,Office Supplies,17.61,1,2.9,0.1647,Feb-2024
+ORD-1365,2024-01-20,South,Folder,Office Supplies,80.62,4,12.19,0.1512,Jan-2024
+ORD-1366,2024-07-31,West,Sofa,Furniture,1382.5,9,397.72,0.2877,Jul-2024
+ORD-1367,2025-01-03,South,Headphones,Electronics,1460.76,8,288.77,0.1977,Jan-2025
+ORD-1368,2024-08-14,West,Pen,Office Supplies,33.49,2,7.04,0.2102,Aug-2024
+ORD-1369,2024-09-23,West,Bookshelf,Furniture,1391.9,9,360.01,0.2586,Sep-2024
+ORD-1370,2024-02-24,North,Paper,Office Supplies,195.81,10,46.89,0.2395,Feb-2024
+ORD-1371,2025-01-20,East,Headphones,Electronics,347.02,2,78.69,0.2268,Jan-2025
+ORD-1372,2024-08-07,North,Stapler,Office Supplies,97.61,5,24.78,0.2539,Aug-2024
+ORD-1373,2024-09-02,East,Tablet,Electronics,1661.59,7,339.7,0.2044,Sep-2024
+ORD-1374,2025-01-09,Central,Smartwatch,Electronics,346.55,2,111.06,0.3205,Jan-2025
+ORD-1375,2024-08-10,East,Binder,Office Supplies,102.39,5,23.74,0.2319,Aug-2024
+ORD-1376,2024-10-07,West,Table,Furniture,892.04,5,164.32,0.1842,Oct-2024
+ORD-1377,2024-09-21,West,Table,Furniture,975.69,6,174.25,0.1786,Sep-2024
+ORD-1378,2025-01-29,South,Folder,Office Supplies,169.76,9,37.95,0.2236,Jan-2025
+ORD-1379,2024-05-10,West,Table,Furniture,633.88,5,77.2,0.1218,May-2024
+ORD-1380,2025-02-20,Central,Folder,Office Supplies,37.57,2,7.99,0.2127,Feb-2025
+ORD-1381,2024-11-09,East,Smartphone,Electronics,1122.48,5,349.02,0.3109,Nov-2024
+ORD-1382,2024-12-12,East,Tablet,Electronics,372.02,2,101.03,0.2716,Dec-2024
+ORD-1383,2024-06-04,North,Headphones,Electronics,917.24,4,141.15,0.1539,Jun-2024
+ORD-1384,2024-05-22,Central,Pen,Office Supplies,96.33,5,27.92,0.2898,May-2024
+ORD-1385,2025-02-04,North,Folder,Office Supplies,42.41,2,13.51,0.3186,Feb-2025
+ORD-1386,2024-08-06,East,Paper,Office Supplies,152.29,8,23.86,0.1567,Aug-2024
+ORD-1387,2024-11-23,East,Binder,Office Supplies,64.58,4,13.26,0.2053,Nov-2024
+ORD-1388,2024-09-26,South,Chair,Furniture,535.1,3,164.01,0.3065,Sep-2024
+ORD-1389,2024-10-01,North,Smartphone,Electronics,1418.3,7,367.02,0.2588,Oct-2024
+ORD-1390,2025-02-01,Central,Tablet,Electronics,1448.52,8,161.55,0.1115,Feb-2025
+ORD-1391,2024-06-09,West,Headphones,Electronics,918.9,5,160.79,0.175,Jun-2024
+ORD-1392,2024-08-09,North,Folder,Office Supplies,184.14,8,33.62,0.1826,Aug-2024
+ORD-1393,2024-03-26,North,Stapler,Office Supplies,18.28,1,3.79,0.2073,Mar-2024
+ORD-1394,2024-09-23,South,Smartwatch,Electronics,900.92,5,139.69,0.1551,Sep-2024
+ORD-1395,2024-06-20,North,Smartwatch,Electronics,2094.93,9,559.97,0.2673,Jun-2024
+ORD-1396,2024-08-03,North,Tablet,Electronics,1168.61,6,342.95,0.2935,Aug-2024
+ORD-1397,2024-12-26,East,Bookshelf,Furniture,938.55,6,241.98,0.2578,Dec-2024
+ORD-1398,2024-10-02,North,Headphones,Electronics,856.46,4,113.84,0.1329,Oct-2024
+ORD-1399,2024-09-16,West,Headphones,Electronics,1086.08,6,182.34,0.1679,Sep-2024
+ORD-1400,2024-12-12,North,Smartphone,Electronics,377.9,2,82.43,0.2181,Dec-2024
+ORD-1401,2024-08-05,East,Folder,Office Supplies,237.72,10,43.46,0.1828,Aug-2024
+ORD-1402,2024-08-28,East,Sofa,Furniture,529.68,4,121.37,0.2291,Aug-2024
+ORD-1403,2024-02-18,North,Sofa,Furniture,505.93,4,93.45,0.1847,Feb-2024
+ORD-1404,2024-12-06,Central,Laptop,Electronics,1407.24,6,280.4,0.1993,Dec-2024
+ORD-1405,2024-02-06,North,Smartphone,Electronics,1620.22,8,518.41,0.32,Feb-2024
+ORD-1406,2024-07-01,North,Stapler,Office Supplies,58.81,3,19.55,0.3324,Jul-2024
+ORD-1407,2024-02-14,North,Folder,Office Supplies,186.09,8,51.83,0.2785,Feb-2024
+ORD-1408,2024-09-24,Central,Smartwatch,Electronics,2364.05,10,721.74,0.3053,Sep-2024
+ORD-1409,2024-01-08,North,Stapler,Office Supplies,114.27,7,36.33,0.3179,Jan-2024
+ORD-1410,2024-05-25,South,Chair,Furniture,568.57,4,74.06,0.1303,May-2024
+ORD-1411,2025-02-15,West,Smartphone,Electronics,1856.86,10,533.78,0.2875,Feb-2025
+ORD-1412,2024-09-14,Central,Laptop,Electronics,462.09,2,115.37,0.2497,Sep-2024
+ORD-1413,2025-02-01,South,Pen,Office Supplies,155.11,9,22.17,0.1429,Feb-2025
+ORD-1414,2024-06-03,Central,Desk,Furniture,1018.45,6,354.23,0.3478,Jun-2024
+ORD-1415,2024-09-14,North,Tablet,Electronics,587.72,3,71.17,0.1211,Sep-2024
+ORD-1416,2024-12-22,Central,Chair,Furniture,1473.75,9,387.7,0.2631,Dec-2024
+ORD-1417,2024-10-10,Central,Sofa,Furniture,288.47,2,34.44,0.1194,Oct-2024
+ORD-1418,2024-03-13,Central,Table,Furniture,286.11,2,60.81,0.2125,Mar-2024
+ORD-1419,2024-06-20,North,Binder,Office Supplies,189.6,10,20.26,0.1069,Jun-2024
+ORD-1420,2025-01-14,North,Paper,Office Supplies,138.6,8,36.23,0.2614,Jan-2025
+ORD-1421,2025-02-24,North,Tablet,Electronics,486.11,3,127.1,0.2615,Feb-2025
+ORD-1422,2025-02-22,East,Binder,Office Supplies,16.81,1,5.24,0.3117,Feb-2025
+ORD-1423,2025-01-26,South,Chair,Furniture,520.17,4,178.42,0.343,Jan-2025
+ORD-1424,2025-02-17,East,Binder,Office Supplies,67.18,4,10.23,0.1523,Feb-2025
+ORD-1425,2024-12-28,East,Sofa,Furniture,277.58,2,37.96,0.1368,Dec-2024
+ORD-1426,2024-09-01,South,Laptop,Electronics,1182.37,5,211.04,0.1785,Sep-2024
+ORD-1427,2024-03-27,West,Bookshelf,Furniture,1611.37,9,277.32,0.1721,Mar-2024
+ORD-1428,2024-05-05,West,Smartwatch,Electronics,1219.88,6,169.0,0.1385,May-2024
+ORD-1429,2024-10-31,Central,Desk,Furniture,808.89,6,250.46,0.3096,Oct-2024
+ORD-1430,2025-01-21,South,Desk,Furniture,391.89,3,88.9,0.2268,Jan-2025
+ORD-1431,2025-01-17,West,Tablet,Electronics,1425.1,7,201.38,0.1413,Jan-2025
+ORD-1432,2024-10-06,Central,Stapler,Office Supplies,39.82,2,7.98,0.2004,Oct-2024
+ORD-1433,2024-09-29,East,Chair,Furniture,1257.92,8,189.1,0.1503,Sep-2024
+ORD-1434,2024-12-06,West,Smartphone,Electronics,1017.21,5,159.64,0.1569,Dec-2024
+ORD-1435,2024-03-04,East,Laptop,Electronics,1216.03,6,386.08,0.3175,Mar-2024
+ORD-1436,2024-05-28,East,Folder,Office Supplies,111.77,5,18.88,0.1689,May-2024
+ORD-1437,2024-02-15,South,Chair,Furniture,443.28,3,153.04,0.3452,Feb-2024
+ORD-1438,2024-08-23,West,Table,Furniture,548.59,4,82.73,0.1508,Aug-2024
+ORD-1439,2024-08-03,East,Pen,Office Supplies,61.85,3,19.57,0.3164,Aug-2024
+ORD-1440,2024-08-06,South,Folder,Office Supplies,165.54,7,24.85,0.1501,Aug-2024
+ORD-1441,2024-11-24,West,Smartphone,Electronics,227.76,1,73.63,0.3233,Nov-2024
+ORD-1442,2024-05-26,East,Stapler,Office Supplies,113.07,7,24.79,0.2192,May-2024
+ORD-1443,2024-12-14,East,Paper,Office Supplies,210.6,10,54.99,0.2611,Dec-2024
+ORD-1444,2024-07-22,South,Headphones,Electronics,1618.29,8,482.81,0.2983,Jul-2024
+ORD-1445,2024-06-11,East,Table,Furniture,125.39,1,12.61,0.1006,Jun-2024
+ORD-1446,2024-03-07,North,Smartwatch,Electronics,165.52,1,16.79,0.1014,Mar-2024
+ORD-1447,2024-05-15,Central,Smartphone,Electronics,864.01,4,108.95,0.1261,May-2024
+ORD-1448,2024-01-23,North,Bookshelf,Furniture,830.21,6,196.99,0.2373,Jan-2024
+ORD-1449,2025-02-01,West,Smartwatch,Electronics,320.97,2,40.2,0.1252,Feb-2025
+ORD-1450,2024-12-23,South,Laptop,Electronics,1793.78,10,393.85,0.2196,Dec-2024
+ORD-1451,2024-11-17,South,Desk,Furniture,1101.74,8,174.18,0.1581,Nov-2024
+ORD-1452,2024-10-21,East,Binder,Office Supplies,111.43,6,24.42,0.2192,Oct-2024
+ORD-1453,2024-11-16,North,Smartwatch,Electronics,885.85,5,180.74,0.204,Nov-2024
+ORD-1454,2024-10-07,North,Paper,Office Supplies,225.71,10,53.87,0.2387,Oct-2024
+ORD-1455,2024-05-27,South,Table,Furniture,552.77,4,95.35,0.1725,May-2024
+ORD-1456,2024-01-30,West,Headphones,Electronics,1523.57,7,305.26,0.2004,Jan-2024
+ORD-1457,2025-02-18,South,Table,Furniture,1484.27,9,266.27,0.1794,Feb-2025
+ORD-1458,2024-08-28,South,Laptop,Electronics,364.19,2,100.79,0.2768,Aug-2024
+ORD-1459,2024-12-08,South,Smartwatch,Electronics,1499.56,9,498.94,0.3327,Dec-2024
+ORD-1460,2024-04-30,North,Binder,Office Supplies,204.68,9,36.5,0.1783,Apr-2024
+ORD-1461,2024-04-09,South,Binder,Office Supplies,69.84,3,13.57,0.1943,Apr-2024
+ORD-1462,2024-06-27,Central,Laptop,Electronics,1396.54,7,275.0,0.1969,Jun-2024
+ORD-1463,2024-08-04,South,Stapler,Office Supplies,115.02,5,16.76,0.1457,Aug-2024
+ORD-1464,2024-01-24,West,Pen,Office Supplies,86.48,4,15.09,0.1745,Jan-2024
+ORD-1465,2024-01-21,West,Binder,Office Supplies,81.93,5,15.57,0.19,Jan-2024
+ORD-1466,2024-10-30,West,Headphones,Electronics,421.51,2,123.37,0.2927,Oct-2024
+ORD-1467,2024-12-26,West,Pen,Office Supplies,40.83,2,8.33,0.204,Dec-2024
+ORD-1468,2025-01-20,North,Headphones,Electronics,1382.48,6,212.81,0.1539,Jan-2025
+ORD-1469,2024-04-18,Central,Laptop,Electronics,1538.35,9,404.45,0.2629,Apr-2024
+ORD-1470,2024-09-30,East,Bookshelf,Furniture,804.66,5,174.64,0.217,Sep-2024
+ORD-1471,2024-03-05,West,Tablet,Electronics,640.05,3,195.74,0.3058,Mar-2024
+ORD-1472,2024-02-23,South,Tablet,Electronics,1075.22,5,172.54,0.1605,Feb-2024
+ORD-1473,2024-04-11,South,Chair,Furniture,707.72,4,76.33,0.1079,Apr-2024
+ORD-1474,2025-01-21,North,Bookshelf,Furniture,1307.93,8,417.77,0.3194,Jan-2025
+ORD-1475,2025-01-12,West,Chair,Furniture,589.18,4,98.28,0.1668,Jan-2025
+ORD-1476,2024-04-13,West,Bookshelf,Furniture,726.1,6,212.41,0.2925,Apr-2024
+ORD-1477,2024-08-09,North,Desk,Furniture,876.78,6,160.47,0.183,Aug-2024
+ORD-1478,2024-06-01,North,Paper,Office Supplies,131.49,7,25.37,0.1929,Jun-2024
+ORD-1479,2024-01-16,East,Tablet,Electronics,1612.38,7,433.56,0.2689,Jan-2024
+ORD-1480,2024-06-08,East,Smartphone,Electronics,1573.12,8,313.84,0.1995,Jun-2024
+ORD-1481,2024-05-11,East,Smartphone,Electronics,416.53,2,90.95,0.2184,May-2024
+ORD-1482,2024-05-03,West,Bookshelf,Furniture,1794.13,10,286.68,0.1598,May-2024
+ORD-1483,2024-11-07,West,Sofa,Furniture,851.65,6,133.15,0.1563,Nov-2024
+ORD-1484,2024-07-17,South,Laptop,Electronics,2002.55,9,489.77,0.2446,Jul-2024
+ORD-1485,2024-09-23,Central,Tablet,Electronics,187.62,1,61.8,0.3294,Sep-2024
+ORD-1486,2024-08-03,West,Smartphone,Electronics,430.42,2,143.18,0.3327,Aug-2024
+ORD-1487,2024-03-24,West,Headphones,Electronics,1365.94,8,463.71,0.3395,Mar-2024
+ORD-1488,2025-02-14,South,Stapler,Office Supplies,214.37,10,25.52,0.119,Feb-2025
+ORD-1489,2024-10-20,South,Table,Furniture,389.83,3,82.4,0.2114,Oct-2024
+ORD-1490,2024-08-22,West,Smartphone,Electronics,456.61,2,73.28,0.1605,Aug-2024
+ORD-1491,2024-03-10,North,Folder,Office Supplies,173.55,8,59.92,0.3453,Mar-2024
+ORD-1492,2024-11-27,East,Smartphone,Electronics,414.97,2,49.08,0.1183,Nov-2024
+ORD-1493,2025-01-08,South,Bookshelf,Furniture,491.78,3,92.83,0.1888,Jan-2025
+ORD-1494,2024-09-29,East,Stapler,Office Supplies,47.47,2,9.41,0.1982,Sep-2024
+ORD-1495,2024-12-27,West,Pen,Office Supplies,155.76,7,52.96,0.34,Dec-2024
+ORD-1496,2024-08-29,Central,Bookshelf,Furniture,1531.12,9,453.37,0.2961,Aug-2024
+ORD-1497,2024-06-04,South,Binder,Office Supplies,88.88,5,16.04,0.1805,Jun-2024
+ORD-1498,2024-11-17,East,Desk,Furniture,1297.49,9,419.95,0.3237,Nov-2024
+ORD-1499,2024-06-21,South,Headphones,Electronics,478.92,2,53.27,0.1112,Jun-2024
+ORD-1500,2024-04-02,North,Folder,Office Supplies,88.14,4,29.05,0.3296,Apr-2024
+ORD-1501,2024-04-22,East,Chair,Furniture,359.09,2,70.59,0.1966,Apr-2024
+ORD-1502,2024-06-29,East,Bookshelf,Furniture,134.42,1,19.88,0.1479,Jun-2024
+ORD-1503,2024-12-30,West,Paper,Office Supplies,146.8,9,16.0,0.109,Dec-2024
+ORD-1504,2025-02-04,South,Smartphone,Electronics,826.12,4,172.79,0.2092,Feb-2025
+ORD-1505,2024-05-28,East,Sofa,Furniture,385.89,3,80.08,0.2075,May-2024
+ORD-1506,2024-11-22,South,Smartwatch,Electronics,903.41,4,291.1,0.3222,Nov-2024
+ORD-1507,2024-08-29,West,Smartwatch,Electronics,1399.13,8,255.89,0.1829,Aug-2024
+ORD-1508,2024-04-12,West,Chair,Furniture,550.86,4,176.21,0.3199,Apr-2024
+ORD-1509,2025-01-19,East,Binder,Office Supplies,131.05,8,36.92,0.2817,Jan-2025
+ORD-1510,2024-01-24,South,Paper,Office Supplies,177.36,9,19.75,0.1114,Jan-2024
+ORD-1511,2024-04-25,Central,Smartwatch,Electronics,1440.01,9,293.97,0.2041,Apr-2024
+ORD-1512,2024-02-23,Central,Laptop,Electronics,1424.72,8,250.82,0.176,Feb-2024
+ORD-1513,2024-11-12,West,Binder,Office Supplies,131.01,6,44.77,0.3417,Nov-2024
+ORD-1514,2024-02-07,East,Folder,Office Supplies,205.09,9,42.18,0.2057,Feb-2024
+ORD-1515,2024-11-01,Central,Headphones,Electronics,523.59,3,100.91,0.1927,Nov-2024
+ORD-1516,2025-01-13,West,Stapler,Office Supplies,124.35,6,32.98,0.2652,Jan-2025
+ORD-1517,2024-02-28,South,Sofa,Furniture,333.68,2,82.07,0.246,Feb-2024
+ORD-1518,2024-05-18,South,Chair,Furniture,156.09,1,27.18,0.1741,May-2024
+ORD-1519,2024-06-01,East,Smartwatch,Electronics,1334.75,6,369.89,0.2771,Jun-2024
+ORD-1520,2024-02-20,West,Smartphone,Electronics,1381.78,8,200.43,0.1451,Feb-2024
+ORD-1521,2025-02-26,East,Chair,Furniture,892.55,7,279.03,0.3126,Feb-2025
+ORD-1522,2024-11-08,North,Sofa,Furniture,1185.43,9,220.89,0.1863,Nov-2024
+ORD-1523,2024-09-18,West,Headphones,Electronics,216.09,1,60.89,0.2818,Sep-2024
+ORD-1524,2024-06-23,Central,Pen,Office Supplies,19.04,1,2.68,0.1408,Jun-2024
+ORD-1525,2024-02-01,West,Chair,Furniture,500.79,3,65.65,0.1311,Feb-2024
+ORD-1526,2024-03-18,South,Laptop,Electronics,1251.59,7,345.71,0.2762,Mar-2024
+ORD-1527,2024-12-04,North,Smartphone,Electronics,1313.07,8,297.01,0.2262,Dec-2024
+ORD-1528,2024-10-09,Central,Sofa,Furniture,431.38,3,57.34,0.1329,Oct-2024
+ORD-1529,2024-03-29,West,Folder,Office Supplies,129.73,7,39.45,0.3041,Mar-2024
+ORD-1530,2024-11-08,Central,Binder,Office Supplies,45.33,2,14.8,0.3265,Nov-2024
+ORD-1531,2024-07-28,West,Smartphone,Electronics,922.71,5,173.69,0.1882,Jul-2024
+ORD-1532,2025-02-04,North,Smartphone,Electronics,827.34,5,244.84,0.2959,Feb-2025
+ORD-1533,2024-11-13,South,Headphones,Electronics,1119.58,6,127.8,0.1141,Nov-2024
+ORD-1534,2024-02-16,West,Smartwatch,Electronics,854.87,4,220.62,0.2581,Feb-2024
+ORD-1535,2024-01-14,East,Desk,Furniture,1435.37,8,260.25,0.1813,Jan-2024
+ORD-1536,2024-11-14,South,Smartphone,Electronics,1323.2,8,303.91,0.2297,Nov-2024
+ORD-1537,2024-01-17,South,Table,Furniture,893.69,5,213.48,0.2389,Jan-2024
+ORD-1538,2024-03-22,South,Smartphone,Electronics,191.81,1,31.85,0.166,Mar-2024
+ORD-1539,2024-09-22,South,Headphones,Electronics,365.99,2,96.69,0.2642,Sep-2024
+ORD-1540,2024-01-22,South,Binder,Office Supplies,99.28,6,20.61,0.2076,Jan-2024
+ORD-1541,2024-05-27,West,Folder,Office Supplies,63.56,3,10.61,0.1669,May-2024
+ORD-1542,2024-10-16,East,Sofa,Furniture,1470.41,10,394.09,0.268,Oct-2024
+ORD-1543,2024-11-21,North,Folder,Office Supplies,45.86,2,15.44,0.3367,Nov-2024
+ORD-1544,2024-06-02,North,Desk,Furniture,1058.06,6,107.57,0.1017,Jun-2024
+ORD-1545,2024-09-04,West,Chair,Furniture,120.92,1,29.71,0.2457,Sep-2024
+ORD-1546,2024-10-31,North,Pen,Office Supplies,191.92,10,59.49,0.31,Oct-2024
+ORD-1547,2024-04-15,North,Table,Furniture,837.74,6,270.18,0.3225,Apr-2024
+ORD-1548,2024-12-06,North,Folder,Office Supplies,175.56,9,61.28,0.3491,Dec-2024
+ORD-1549,2024-12-13,North,Pen,Office Supplies,161.43,9,44.96,0.2785,Dec-2024
+ORD-1550,2024-06-16,North,Tablet,Electronics,177.15,1,29.71,0.1677,Jun-2024
+ORD-1551,2024-10-16,East,Laptop,Electronics,531.68,3,132.53,0.2493,Oct-2024
+ORD-1552,2024-01-16,South,Table,Furniture,336.61,2,102.92,0.3058,Jan-2024
+ORD-1553,2024-11-14,Central,Sofa,Furniture,1508.17,10,246.34,0.1633,Nov-2024
+ORD-1554,2024-03-31,East,Table,Furniture,175.25,1,43.13,0.2461,Mar-2024
+ORD-1555,2024-12-10,North,Smartwatch,Electronics,1465.21,9,434.94,0.2968,Dec-2024
+ORD-1556,2024-09-14,Central,Sofa,Furniture,873.94,6,184.08,0.2106,Sep-2024
+ORD-1557,2024-09-08,East,Tablet,Electronics,451.96,2,78.23,0.1731,Sep-2024
+ORD-1558,2024-05-18,South,Smartwatch,Electronics,828.87,4,167.36,0.2019,May-2024
+ORD-1559,2024-12-28,West,Pen,Office Supplies,151.93,7,15.63,0.1029,Dec-2024
+ORD-1560,2024-04-30,North,Desk,Furniture,835.96,5,280.58,0.3356,Apr-2024
+ORD-1561,2024-08-29,East,Tablet,Electronics,506.5,3,87.27,0.1723,Aug-2024
+ORD-1562,2024-07-14,West,Paper,Office Supplies,126.27,7,36.07,0.2857,Jul-2024
+ORD-1563,2025-01-12,West,Smartwatch,Electronics,1240.99,7,375.19,0.3023,Jan-2025
+ORD-1564,2025-01-23,West,Table,Furniture,150.34,1,50.41,0.3353,Jan-2025
+ORD-1565,2024-04-06,North,Smartwatch,Electronics,1495.9,9,459.57,0.3072,Apr-2024
+ORD-1566,2024-02-08,North,Desk,Furniture,1730.63,10,322.24,0.1862,Feb-2024
+ORD-1567,2025-02-17,North,Pen,Office Supplies,96.44,5,27.05,0.2805,Feb-2025
+ORD-1568,2025-01-06,Central,Smartwatch,Electronics,405.1,2,120.46,0.2974,Jan-2025
+ORD-1569,2024-04-03,North,Chair,Furniture,1729.0,10,225.42,0.1304,Apr-2024
+ORD-1570,2024-04-24,West,Chair,Furniture,1564.65,10,252.44,0.1613,Apr-2024
+ORD-1571,2024-09-03,East,Bookshelf,Furniture,1255.82,8,300.42,0.2392,Sep-2024
+ORD-1572,2024-06-23,North,Chair,Furniture,482.22,3,97.87,0.203,Jun-2024
+ORD-1573,2025-02-16,South,Sofa,Furniture,927.15,6,97.85,0.1055,Feb-2025
+ORD-1574,2024-08-26,Central,Smartwatch,Electronics,1199.99,7,327.62,0.273,Aug-2024
+ORD-1575,2024-03-11,Central,Laptop,Electronics,214.31,1,62.85,0.2933,Mar-2024
+ORD-1576,2024-04-12,Central,Smartphone,Electronics,228.58,1,61.33,0.2683,Apr-2024
+ORD-1577,2025-01-21,Central,Headphones,Electronics,1802.62,10,184.76,0.1025,Jan-2025
+ORD-1578,2024-06-04,North,Smartwatch,Electronics,2069.4,9,312.19,0.1509,Jun-2024
+ORD-1579,2024-12-29,East,Chair,Furniture,1029.54,7,150.17,0.1459,Dec-2024
+ORD-1580,2025-02-28,Central,Binder,Office Supplies,96.39,5,25.25,0.262,Feb-2025
+ORD-1581,2024-05-25,East,Bookshelf,Furniture,1481.26,9,462.13,0.312,May-2024
+ORD-1582,2024-04-25,North,Smartwatch,Electronics,380.08,2,114.39,0.301,Apr-2024
+ORD-1583,2024-11-30,West,Headphones,Electronics,1856.93,10,287.88,0.155,Nov-2024
+ORD-1584,2024-06-30,East,Folder,Office Supplies,65.45,4,12.27,0.1875,Jun-2024
+ORD-1585,2024-04-05,East,Sofa,Furniture,319.4,2,70.59,0.221,Apr-2024
+ORD-1586,2024-12-13,West,Desk,Furniture,1223.24,8,142.65,0.1166,Dec-2024
+ORD-1587,2024-05-15,North,Table,Furniture,756.32,5,141.85,0.1876,May-2024
+ORD-1588,2024-11-09,West,Headphones,Electronics,882.9,5,245.72,0.2783,Nov-2024
+ORD-1589,2024-02-28,West,Tablet,Electronics,1319.99,6,431.71,0.3271,Feb-2024
+ORD-1590,2024-08-02,East,Laptop,Electronics,912.83,4,214.89,0.2354,Aug-2024
+ORD-1591,2024-03-02,South,Desk,Furniture,859.04,6,212.29,0.2471,Mar-2024
+ORD-1592,2024-11-08,Central,Paper,Office Supplies,200.56,10,29.48,0.147,Nov-2024
+ORD-1593,2024-03-21,South,Table,Furniture,507.93,3,134.54,0.2649,Mar-2024
+ORD-1594,2024-08-11,North,Chair,Furniture,529.03,3,137.07,0.2591,Aug-2024
+ORD-1595,2024-05-08,Central,Laptop,Electronics,903.61,4,104.62,0.1158,May-2024
+ORD-1596,2024-07-25,West,Folder,Office Supplies,215.92,10,41.48,0.1921,Jul-2024
+ORD-1597,2024-01-28,North,Smartwatch,Electronics,1155.39,5,353.64,0.3061,Jan-2024
+ORD-1598,2024-11-11,South,Chair,Furniture,1056.51,8,241.47,0.2286,Nov-2024
+ORD-1599,2024-09-11,Central,Stapler,Office Supplies,100.53,6,28.85,0.287,Sep-2024
+ORD-1600,2024-06-30,Central,Sofa,Furniture,696.74,4,232.29,0.3334,Jun-2024
+ORD-1601,2024-03-31,Central,Sofa,Furniture,462.81,3,81.46,0.176,Mar-2024
+ORD-1602,2024-09-25,North,Folder,Office Supplies,111.35,5,26.9,0.2416,Sep-2024
+ORD-1603,2024-10-30,Central,Paper,Office Supplies,22.1,1,2.43,0.11,Oct-2024
+ORD-1604,2024-07-25,East,Sofa,Furniture,472.43,3,149.34,0.3161,Jul-2024
+ORD-1605,2024-05-17,East,Tablet,Electronics,586.15,3,162.28,0.2769,May-2024
+ORD-1606,2024-06-01,West,Binder,Office Supplies,37.47,2,8.69,0.2319,Jun-2024
+ORD-1607,2024-11-10,Central,Stapler,Office Supplies,42.39,2,12.76,0.301,Nov-2024
+ORD-1608,2024-06-14,North,Sofa,Furniture,283.49,2,89.56,0.3159,Jun-2024
+ORD-1609,2025-01-10,East,Tablet,Electronics,821.76,5,214.53,0.2611,Jan-2025
+ORD-1610,2024-12-10,North,Table,Furniture,776.23,6,201.03,0.259,Dec-2024
+ORD-1611,2024-09-16,North,Folder,Office Supplies,117.85,6,31.46,0.2669,Sep-2024
+ORD-1612,2024-04-02,South,Chair,Furniture,912.0,7,194.62,0.2134,Apr-2024
+ORD-1613,2024-10-22,West,Sofa,Furniture,1417.7,8,454.24,0.3204,Oct-2024
+ORD-1614,2024-11-17,Central,Laptop,Electronics,665.14,4,189.66,0.2851,Nov-2024
+ORD-1615,2024-12-29,East,Bookshelf,Furniture,991.93,8,156.43,0.1577,Dec-2024
+ORD-1616,2024-07-27,West,Binder,Office Supplies,140.09,7,48.2,0.3441,Jul-2024
+ORD-1617,2024-06-03,Central,Pen,Office Supplies,52.81,3,8.14,0.1541,Jun-2024
+ORD-1618,2024-08-26,North,Stapler,Office Supplies,75.12,4,15.69,0.2089,Aug-2024
+ORD-1619,2024-09-24,North,Laptop,Electronics,612.45,3,182.11,0.2973,Sep-2024
+ORD-1620,2024-03-11,West,Table,Furniture,493.25,4,165.53,0.3356,Mar-2024
+ORD-1621,2025-02-19,West,Stapler,Office Supplies,95.14,4,27.57,0.2898,Feb-2025
+ORD-1622,2024-10-22,West,Binder,Office Supplies,142.06,8,14.93,0.1051,Oct-2024
+ORD-1623,2024-05-17,West,Tablet,Electronics,707.36,4,213.8,0.3023,May-2024
+ORD-1624,2024-08-10,South,Table,Furniture,1136.8,7,289.09,0.2543,Aug-2024
+ORD-1625,2024-07-08,Central,Table,Furniture,1105.74,8,196.74,0.1779,Jul-2024
+ORD-1626,2024-04-21,West,Chair,Furniture,147.58,1,26.06,0.1766,Apr-2024
+ORD-1627,2024-11-08,South,Laptop,Electronics,1577.32,9,294.59,0.1868,Nov-2024
+ORD-1628,2024-01-18,East,Laptop,Electronics,1590.46,7,552.47,0.3474,Jan-2024
+ORD-1629,2025-01-27,West,Sofa,Furniture,746.82,5,213.15,0.2854,Jan-2025
+ORD-1630,2024-11-27,West,Sofa,Furniture,889.14,7,266.68,0.2999,Nov-2024
+ORD-1631,2025-02-03,West,Pen,Office Supplies,140.57,8,47.49,0.3378,Feb-2025
+ORD-1632,2024-08-16,East,Smartphone,Electronics,2295.68,10,460.73,0.2007,Aug-2024
+ORD-1633,2024-02-08,North,Headphones,Electronics,1023.19,6,320.95,0.3137,Feb-2024
+ORD-1634,2024-02-22,East,Stapler,Office Supplies,135.63,6,23.25,0.1714,Feb-2024
+ORD-1635,2025-02-25,North,Sofa,Furniture,1420.43,10,172.94,0.1218,Feb-2025
+ORD-1636,2024-06-25,East,Stapler,Office Supplies,87.0,5,23.33,0.2682,Jun-2024
+ORD-1637,2025-02-28,Central,Bookshelf,Furniture,1087.35,7,313.07,0.2879,Feb-2025
+ORD-1638,2024-02-14,South,Chair,Furniture,570.37,4,90.13,0.158,Feb-2024
+ORD-1639,2025-02-23,North,Smartwatch,Electronics,183.52,1,29.23,0.1593,Feb-2025
+ORD-1640,2024-08-06,Central,Binder,Office Supplies,222.87,10,55.16,0.2475,Aug-2024
+ORD-1641,2024-08-16,North,Smartwatch,Electronics,1392.87,7,289.02,0.2075,Aug-2024
+ORD-1642,2025-02-04,Central,Desk,Furniture,260.49,2,28.03,0.1076,Feb-2025
+ORD-1643,2024-05-28,North,Folder,Office Supplies,177.72,9,52.14,0.2934,May-2024
+ORD-1644,2024-02-22,West,Chair,Furniture,1316.62,9,407.88,0.3098,Feb-2024
+ORD-1645,2024-01-01,West,Binder,Office Supplies,35.45,2,6.52,0.1839,Jan-2024
+ORD-1646,2024-05-19,North,Smartphone,Electronics,1576.18,9,521.07,0.3306,May-2024
+ORD-1647,2024-09-24,North,Paper,Office Supplies,66.02,3,8.67,0.1313,Sep-2024
+ORD-1648,2024-09-29,North,Desk,Furniture,769.73,5,255.77,0.3323,Sep-2024
+ORD-1649,2025-01-24,South,Desk,Furniture,454.45,3,133.52,0.2938,Jan-2025
+ORD-1650,2024-08-14,East,Pen,Office Supplies,118.46,5,31.62,0.2669,Aug-2024
+ORD-1651,2024-12-04,West,Pen,Office Supplies,128.57,6,23.06,0.1794,Dec-2024
+ORD-1652,2024-02-07,Central,Folder,Office Supplies,75.21,4,24.69,0.3283,Feb-2024
+ORD-1653,2024-06-12,South,Tablet,Electronics,2172.84,10,600.92,0.2766,Jun-2024
+ORD-1654,2024-09-03,West,Sofa,Furniture,1366.88,10,185.3,0.1356,Sep-2024
+ORD-1655,2024-07-02,East,Laptop,Electronics,478.67,2,112.61,0.2353,Jul-2024
+ORD-1656,2024-07-26,South,Bookshelf,Furniture,1209.59,9,335.7,0.2775,Jul-2024
+ORD-1657,2024-10-13,Central,Laptop,Electronics,539.2,3,117.41,0.2177,Oct-2024
+ORD-1658,2024-03-13,South,Sofa,Furniture,412.97,3,53.15,0.1287,Mar-2024
+ORD-1659,2024-10-09,North,Binder,Office Supplies,191.77,9,38.89,0.2028,Oct-2024
+ORD-1660,2024-06-10,South,Folder,Office Supplies,128.74,7,16.32,0.1268,Jun-2024
+ORD-1661,2024-09-02,North,Sofa,Furniture,1562.28,10,493.34,0.3158,Sep-2024
+ORD-1662,2024-04-25,Central,Desk,Furniture,127.02,1,34.36,0.2705,Apr-2024
+ORD-1663,2024-09-06,West,Pen,Office Supplies,103.34,5,20.41,0.1975,Sep-2024
+ORD-1664,2024-03-10,North,Folder,Office Supplies,148.89,7,49.56,0.3329,Mar-2024
+ORD-1665,2024-08-14,East,Table,Furniture,1589.04,9,191.77,0.1207,Aug-2024
+ORD-1666,2024-07-21,Central,Laptop,Electronics,985.59,5,127.81,0.1297,Jul-2024
+ORD-1667,2024-08-24,Central,Smartphone,Electronics,438.22,2,47.38,0.1081,Aug-2024
+ORD-1668,2024-01-30,East,Paper,Office Supplies,146.97,8,49.17,0.3346,Jan-2024
+ORD-1669,2024-08-07,South,Chair,Furniture,1247.28,7,259.2,0.2078,Aug-2024
+ORD-1670,2024-06-10,West,Tablet,Electronics,196.63,1,30.8,0.1566,Jun-2024
+ORD-1671,2024-04-20,North,Smartphone,Electronics,1887.37,10,577.32,0.3059,Apr-2024
+ORD-1672,2024-07-27,East,Smartphone,Electronics,204.58,1,28.44,0.139,Jul-2024
+ORD-1673,2024-06-14,North,Desk,Furniture,923.65,6,134.55,0.1457,Jun-2024
+ORD-1674,2024-03-12,Central,Stapler,Office Supplies,18.21,1,2.75,0.151,Mar-2024
+ORD-1675,2024-02-29,Central,Table,Furniture,145.25,1,36.37,0.2504,Feb-2024
+ORD-1676,2024-10-29,Central,Bookshelf,Furniture,778.04,6,205.48,0.2641,Oct-2024
+ORD-1677,2024-05-25,West,Smartphone,Electronics,1353.89,7,174.77,0.1291,May-2024
+ORD-1678,2024-01-19,East,Folder,Office Supplies,49.84,3,9.4,0.1886,Jan-2024
+ORD-1679,2024-04-09,East,Bookshelf,Furniture,1113.43,8,233.31,0.2095,Apr-2024
+ORD-1680,2024-11-22,East,Chair,Furniture,423.88,3,86.17,0.2033,Nov-2024
+ORD-1681,2024-11-09,Central,Folder,Office Supplies,138.04,8,42.35,0.3068,Nov-2024
+ORD-1682,2024-07-08,West,Laptop,Electronics,409.13,2,64.58,0.1578,Jul-2024
+ORD-1683,2024-10-06,East,Pen,Office Supplies,124.34,7,39.98,0.3215,Oct-2024
+ORD-1684,2024-12-29,East,Paper,Office Supplies,164.57,9,20.22,0.1229,Dec-2024
+ORD-1685,2024-08-17,South,Desk,Furniture,728.54,5,206.09,0.2829,Aug-2024
+ORD-1686,2024-06-19,Central,Stapler,Office Supplies,141.27,6,22.5,0.1593,Jun-2024
+ORD-1687,2024-04-17,West,Laptop,Electronics,359.92,2,85.25,0.2369,Apr-2024
+ORD-1688,2024-08-16,South,Sofa,Furniture,509.13,3,141.65,0.2782,Aug-2024
+ORD-1689,2024-04-05,West,Folder,Office Supplies,21.83,1,4.07,0.1864,Apr-2024
+ORD-1690,2024-08-01,East,Chair,Furniture,571.74,4,145.7,0.2548,Aug-2024
+ORD-1691,2024-09-07,South,Pen,Office Supplies,137.74,7,28.61,0.2077,Sep-2024
+ORD-1692,2024-09-07,North,Laptop,Electronics,692.91,3,142.02,0.205,Sep-2024
+ORD-1693,2025-01-06,North,Desk,Furniture,1160.71,8,335.82,0.2893,Jan-2025
+ORD-1694,2024-07-24,South,Laptop,Electronics,1570.78,7,177.65,0.1131,Jul-2024
+ORD-1695,2024-12-20,West,Table,Furniture,402.3,3,123.72,0.3075,Dec-2024
+ORD-1696,2024-08-01,Central,Pen,Office Supplies,46.82,2,9.59,0.2048,Aug-2024
+ORD-1697,2024-02-23,East,Pen,Office Supplies,57.43,3,6.15,0.1071,Feb-2024
+ORD-1698,2024-12-11,North,Paper,Office Supplies,95.16,4,22.46,0.236,Dec-2024
+ORD-1699,2024-11-10,East,Folder,Office Supplies,17.77,1,3.19,0.1795,Nov-2024
+ORD-1700,2024-10-18,Central,Laptop,Electronics,784.02,4,144.54,0.1844,Oct-2024
+ORD-1701,2024-03-16,Central,Table,Furniture,861.54,7,192.24,0.2231,Mar-2024
+ORD-1702,2024-10-19,Central,Folder,Office Supplies,69.16,4,16.81,0.2431,Oct-2024
+ORD-1703,2024-03-04,Central,Folder,Office Supplies,87.48,4,16.33,0.1867,Mar-2024
+ORD-1704,2025-01-20,South,Tablet,Electronics,647.32,3,96.04,0.1484,Jan-2025
+ORD-1705,2024-11-13,Central,Bookshelf,Furniture,554.86,4,72.42,0.1305,Nov-2024
+ORD-1706,2025-02-06,West,Pen,Office Supplies,85.54,4,26.18,0.3061,Feb-2025
+ORD-1707,2024-12-03,Central,Binder,Office Supplies,83.28,5,9.06,0.1088,Dec-2024
+ORD-1708,2024-10-26,South,Laptop,Electronics,1552.47,9,538.87,0.3471,Oct-2024
+ORD-1709,2024-05-26,South,Sofa,Furniture,1353.82,9,351.28,0.2595,May-2024
+ORD-1710,2024-04-04,Central,Sofa,Furniture,587.15,4,149.54,0.2547,Apr-2024
+ORD-1711,2024-09-29,Central,Binder,Office Supplies,180.69,8,43.19,0.239,Sep-2024
+ORD-1712,2024-01-04,South,Paper,Office Supplies,23.12,1,8.05,0.3482,Jan-2024
+ORD-1713,2024-11-16,West,Laptop,Electronics,1261.69,7,399.19,0.3164,Nov-2024
+ORD-1714,2024-04-17,East,Sofa,Furniture,1004.77,8,342.58,0.341,Apr-2024
+ORD-1715,2024-07-13,West,Paper,Office Supplies,23.55,1,6.86,0.2913,Jul-2024
+ORD-1716,2025-01-20,West,Bookshelf,Furniture,771.62,6,80.71,0.1046,Jan-2025
+ORD-1717,2024-09-22,West,Chair,Furniture,1318.6,8,203.96,0.1547,Sep-2024
+ORD-1718,2025-02-24,Central,Chair,Furniture,648.33,4,83.22,0.1284,Feb-2025
+ORD-1719,2024-12-01,South,Chair,Furniture,289.36,2,38.08,0.1316,Dec-2024
+ORD-1720,2024-12-11,North,Chair,Furniture,341.04,2,75.26,0.2207,Dec-2024
+ORD-1721,2024-03-06,North,Folder,Office Supplies,69.59,4,12.11,0.174,Mar-2024
+ORD-1722,2024-06-07,North,Table,Furniture,773.06,5,186.29,0.241,Jun-2024
+ORD-1723,2024-10-06,Central,Desk,Furniture,255.3,2,76.6,0.3,Oct-2024
+ORD-1724,2024-11-09,West,Bookshelf,Furniture,654.44,4,193.84,0.2962,Nov-2024
+ORD-1725,2024-12-21,North,Smartwatch,Electronics,836.64,4,205.23,0.2453,Dec-2024
+ORD-1726,2024-05-30,Central,Binder,Office Supplies,106.47,5,27.51,0.2584,May-2024
+ORD-1727,2024-08-18,West,Smartwatch,Electronics,1431.68,7,265.84,0.1857,Aug-2024
+ORD-1728,2024-10-14,West,Smartphone,Electronics,1400.83,6,367.64,0.2624,Oct-2024
+ORD-1729,2024-04-18,East,Binder,Office Supplies,16.11,1,2.91,0.1806,Apr-2024
+ORD-1730,2024-03-23,Central,Folder,Office Supplies,69.57,3,16.58,0.2383,Mar-2024
+ORD-1731,2025-02-12,South,Smartwatch,Electronics,1720.73,9,378.58,0.22,Feb-2025
+ORD-1732,2024-12-08,East,Binder,Office Supplies,137.93,6,48.12,0.3489,Dec-2024
+ORD-1733,2024-02-15,East,Laptop,Electronics,922.3,5,185.08,0.2007,Feb-2024
+ORD-1734,2025-02-16,West,Desk,Furniture,425.64,3,121.15,0.2846,Feb-2025
+ORD-1735,2024-07-15,East,Tablet,Electronics,2018.95,9,416.88,0.2065,Jul-2024
+ORD-1736,2024-10-01,East,Headphones,Electronics,1644.87,9,346.67,0.2108,Oct-2024
+ORD-1737,2024-12-30,East,Folder,Office Supplies,189.66,8,24.09,0.127,Dec-2024
+ORD-1738,2024-01-26,East,Tablet,Electronics,1501.94,9,171.61,0.1143,Jan-2024
+ORD-1739,2024-02-08,East,Binder,Office Supplies,183.65,10,61.18,0.3331,Feb-2024
+ORD-1740,2024-04-07,East,Folder,Office Supplies,127.34,6,17.63,0.1384,Apr-2024
+ORD-1741,2024-12-20,East,Sofa,Furniture,1035.8,7,152.76,0.1475,Dec-2024
+ORD-1742,2024-06-02,West,Binder,Office Supplies,101.19,5,28.65,0.2831,Jun-2024
+ORD-1743,2024-07-26,North,Smartphone,Electronics,1105.45,6,377.66,0.3416,Jul-2024
+ORD-1744,2024-09-16,East,Laptop,Electronics,1224.23,6,364.21,0.2975,Sep-2024
+ORD-1745,2024-01-28,East,Pen,Office Supplies,225.26,10,48.81,0.2167,Jan-2024
+ORD-1746,2024-12-18,West,Sofa,Furniture,126.38,1,16.24,0.1285,Dec-2024
+ORD-1747,2024-04-02,Central,Pen,Office Supplies,48.0,3,12.17,0.2535,Apr-2024
+ORD-1748,2024-06-29,West,Chair,Furniture,1638.3,10,219.27,0.1338,Jun-2024
+ORD-1749,2024-06-17,South,Chair,Furniture,1060.61,7,135.55,0.1278,Jun-2024
+ORD-1750,2024-11-03,North,Tablet,Electronics,1070.25,5,117.22,0.1095,Nov-2024
+ORD-1751,2024-05-11,East,Table,Furniture,612.57,4,152.41,0.2488,May-2024
+ORD-1752,2024-07-07,East,Headphones,Electronics,812.89,4,97.4,0.1198,Jul-2024
+ORD-1753,2024-10-09,North,Bookshelf,Furniture,387.26,3,80.62,0.2082,Oct-2024
+ORD-1754,2024-09-16,Central,Laptop,Electronics,1401.39,7,210.48,0.1502,Sep-2024
+ORD-1755,2024-10-04,East,Bookshelf,Furniture,668.03,4,113.08,0.1693,Oct-2024
+ORD-1756,2024-09-09,North,Paper,Office Supplies,237.68,10,34.29,0.1443,Sep-2024
+ORD-1757,2024-03-10,West,Sofa,Furniture,726.8,5,253.59,0.3489,Mar-2024
+ORD-1758,2024-01-30,North,Chair,Furniture,1685.81,10,569.19,0.3376,Jan-2024
+ORD-1759,2024-06-03,North,Desk,Furniture,935.21,7,226.06,0.2417,Jun-2024
+ORD-1760,2024-04-26,South,Stapler,Office Supplies,102.1,6,15.04,0.1473,Apr-2024
+ORD-1761,2024-07-28,West,Desk,Furniture,1465.55,10,164.27,0.1121,Jul-2024
+ORD-1762,2025-01-12,East,Paper,Office Supplies,75.3,4,22.59,0.3,Jan-2025
+ORD-1763,2024-01-22,South,Paper,Office Supplies,176.07,9,18.25,0.1037,Jan-2024
+ORD-1764,2024-09-07,West,Pen,Office Supplies,145.51,9,44.37,0.3049,Sep-2024
+ORD-1765,2024-08-02,Central,Desk,Furniture,1525.8,10,295.17,0.1935,Aug-2024
+ORD-1766,2025-02-16,East,Binder,Office Supplies,65.82,3,10.6,0.161,Feb-2025
+ORD-1767,2024-02-04,West,Stapler,Office Supplies,69.21,3,11.6,0.1676,Feb-2024
+ORD-1768,2024-05-01,West,Folder,Office Supplies,49.49,3,5.83,0.1178,May-2024
+ORD-1769,2024-12-08,Central,Pen,Office Supplies,81.95,5,10.2,0.1245,Dec-2024
+ORD-1770,2024-04-11,South,Smartphone,Electronics,980.48,5,179.03,0.1826,Apr-2024
+ORD-1771,2024-07-26,North,Laptop,Electronics,1531.4,9,200.34,0.1308,Jul-2024
+ORD-1772,2025-01-02,North,Headphones,Electronics,1288.47,6,434.53,0.3372,Jan-2025
+ORD-1773,2024-01-18,Central,Folder,Office Supplies,42.76,2,6.09,0.1424,Jan-2024
+ORD-1774,2024-04-01,East,Pen,Office Supplies,169.79,8,41.58,0.2449,Apr-2024
+ORD-1775,2024-03-08,North,Sofa,Furniture,1559.62,10,440.07,0.2822,Mar-2024
+ORD-1776,2024-04-03,Central,Smartwatch,Electronics,1476.7,9,375.65,0.2544,Apr-2024
+ORD-1777,2024-12-03,South,Desk,Furniture,279.84,2,82.67,0.2954,Dec-2024
+ORD-1778,2024-04-23,North,Binder,Office Supplies,71.82,3,11.5,0.1601,Apr-2024
+ORD-1779,2024-08-25,Central,Smartphone,Electronics,657.52,3,166.4,0.2531,Aug-2024
+ORD-1780,2024-10-01,South,Folder,Office Supplies,22.66,1,6.82,0.301,Oct-2024
+ORD-1781,2024-09-09,North,Laptop,Electronics,513.6,3,104.75,0.204,Sep-2024
+ORD-1782,2024-03-20,Central,Bookshelf,Furniture,741.3,6,191.4,0.2582,Mar-2024
+ORD-1783,2025-02-22,West,Tablet,Electronics,1651.59,7,528.34,0.3199,Feb-2025
+ORD-1784,2024-08-19,Central,Smartphone,Electronics,188.35,1,33.09,0.1757,Aug-2024
+ORD-1785,2024-12-08,East,Stapler,Office Supplies,41.21,2,5.78,0.1403,Dec-2024
+ORD-1786,2024-11-08,East,Tablet,Electronics,331.06,2,101.59,0.3069,Nov-2024
+ORD-1787,2024-06-18,South,Binder,Office Supplies,197.62,9,40.14,0.2031,Jun-2024
+ORD-1788,2024-01-21,South,Smartwatch,Electronics,170.65,1,28.21,0.1653,Jan-2024
+ORD-1789,2024-04-26,West,Tablet,Electronics,1571.58,9,282.51,0.1798,Apr-2024
+ORD-1790,2024-10-23,East,Smartwatch,Electronics,1003.83,6,180.36,0.1797,Oct-2024
+ORD-1791,2024-11-17,East,Stapler,Office Supplies,49.46,3,5.33,0.1078,Nov-2024
+ORD-1792,2024-08-28,West,Smartwatch,Electronics,695.18,3,103.63,0.1491,Aug-2024
+ORD-1793,2024-05-05,East,Chair,Furniture,315.24,2,95.23,0.3021,May-2024
+ORD-1794,2024-01-25,East,Smartphone,Electronics,1744.63,10,291.7,0.1672,Jan-2024
+ORD-1795,2024-08-23,South,Chair,Furniture,932.28,6,108.93,0.1168,Aug-2024
+ORD-1796,2024-12-26,East,Paper,Office Supplies,201.45,10,30.92,0.1535,Dec-2024
+ORD-1797,2024-03-28,West,Smartphone,Electronics,847.8,4,226.55,0.2672,Mar-2024
+ORD-1798,2024-05-16,South,Headphones,Electronics,2078.04,9,446.01,0.2146,May-2024
+ORD-1799,2024-10-02,South,Paper,Office Supplies,95.9,4,26.86,0.2801,Oct-2024
+ORD-1800,2024-04-04,North,Pen,Office Supplies,80.04,5,26.08,0.3258,Apr-2024
+ORD-1801,2024-10-24,Central,Tablet,Electronics,895.63,5,259.29,0.2895,Oct-2024
+ORD-1802,2024-11-03,South,Bookshelf,Furniture,1100.56,7,331.2,0.3009,Nov-2024
+ORD-1803,2024-12-06,Central,Table,Furniture,519.53,3,71.61,0.1378,Dec-2024
+ORD-1804,2024-10-13,South,Pen,Office Supplies,47.44,2,9.82,0.207,Oct-2024
+ORD-1805,2024-08-07,South,Binder,Office Supplies,171.78,10,26.05,0.1516,Aug-2024
+ORD-1806,2024-12-05,Central,Binder,Office Supplies,60.56,3,20.01,0.3304,Dec-2024
+ORD-1807,2025-01-18,North,Pen,Office Supplies,154.85,7,21.03,0.1358,Jan-2025
+ORD-1808,2024-12-23,West,Binder,Office Supplies,16.5,1,3.66,0.2218,Dec-2024
+ORD-1809,2024-08-19,East,Bookshelf,Furniture,596.56,4,141.08,0.2365,Aug-2024
+ORD-1810,2024-06-21,Central,Binder,Office Supplies,221.17,10,30.23,0.1367,Jun-2024
+ORD-1811,2025-02-11,South,Stapler,Office Supplies,147.87,9,39.53,0.2673,Feb-2025
+ORD-1812,2024-11-26,South,Binder,Office Supplies,33.02,2,4.76,0.1442,Nov-2024
+ORD-1813,2024-07-07,East,Desk,Furniture,958.43,6,275.99,0.288,Jul-2024
+ORD-1814,2024-11-23,East,Sofa,Furniture,895.31,7,247.34,0.2763,Nov-2024
+ORD-1815,2024-07-09,West,Binder,Office Supplies,52.05,3,5.9,0.1134,Jul-2024
+ORD-1816,2024-10-09,North,Folder,Office Supplies,121.42,7,37.53,0.3091,Oct-2024
+ORD-1817,2025-01-07,North,Bookshelf,Furniture,753.33,5,189.14,0.2511,Jan-2025
+ORD-1818,2024-08-14,Central,Folder,Office Supplies,68.13,3,18.24,0.2677,Aug-2024
+ORD-1819,2024-09-09,Central,Pen,Office Supplies,136.91,8,34.64,0.253,Sep-2024
+ORD-1820,2024-07-24,South,Binder,Office Supplies,42.1,2,7.06,0.1677,Jul-2024
+ORD-1821,2025-01-21,Central,Laptop,Electronics,1905.66,8,468.14,0.2457,Jan-2025
+ORD-1822,2024-09-12,West,Smartwatch,Electronics,164.49,1,26.96,0.1639,Sep-2024
+ORD-1823,2024-11-29,North,Laptop,Electronics,390.51,2,124.95,0.32,Nov-2024
+ORD-1824,2025-02-18,Central,Headphones,Electronics,1187.52,6,252.72,0.2128,Feb-2025
+ORD-1825,2024-03-29,Central,Smartwatch,Electronics,1127.05,5,364.9,0.3238,Mar-2024
+ORD-1826,2024-11-01,South,Headphones,Electronics,182.15,1,20.31,0.1115,Nov-2024
+ORD-1827,2024-05-11,Central,Paper,Office Supplies,110.96,6,34.55,0.3114,May-2024
+ORD-1828,2024-03-09,West,Pen,Office Supplies,88.17,5,18.05,0.2047,Mar-2024
+ORD-1829,2024-07-03,South,Headphones,Electronics,804.15,4,136.99,0.1704,Jul-2024
+ORD-1830,2024-06-10,Central,Sofa,Furniture,163.44,1,54.3,0.3322,Jun-2024
+ORD-1831,2024-04-06,North,Laptop,Electronics,217.5,1,27.76,0.1276,Apr-2024
+ORD-1832,2024-08-15,West,Table,Furniture,1155.11,7,194.78,0.1686,Aug-2024
+ORD-1833,2024-04-22,Central,Desk,Furniture,146.65,1,39.43,0.2689,Apr-2024
+ORD-1834,2024-03-19,South,Binder,Office Supplies,202.8,10,22.19,0.1094,Mar-2024
+ORD-1835,2024-03-11,South,Table,Furniture,173.19,1,34.58,0.1997,Mar-2024
+ORD-1836,2025-01-04,East,Smartwatch,Electronics,1876.46,10,190.92,0.1017,Jan-2025
+ORD-1837,2024-11-27,South,Binder,Office Supplies,112.19,6,34.43,0.3069,Nov-2024
+ORD-1838,2025-02-25,North,Chair,Furniture,134.01,1,15.69,0.1171,Feb-2025
+ORD-1839,2024-03-23,North,Folder,Office Supplies,56.72,3,11.89,0.2096,Mar-2024
+ORD-1840,2024-07-30,Central,Pen,Office Supplies,168.54,10,57.03,0.3384,Jul-2024
+ORD-1841,2024-04-21,South,Paper,Office Supplies,18.52,1,4.97,0.2684,Apr-2024
+ORD-1842,2024-07-25,East,Binder,Office Supplies,149.08,9,48.8,0.3273,Jul-2024
+ORD-1843,2025-01-15,North,Smartwatch,Electronics,997.37,6,337.97,0.3389,Jan-2025
+ORD-1844,2024-08-06,Central,Tablet,Electronics,966.35,6,220.27,0.2279,Aug-2024
+ORD-1845,2024-03-05,West,Sofa,Furniture,169.18,1,54.48,0.322,Mar-2024
+ORD-1846,2024-06-29,West,Paper,Office Supplies,88.15,4,18.63,0.2113,Jun-2024
+ORD-1847,2024-04-05,East,Table,Furniture,277.24,2,62.61,0.2258,Apr-2024
+ORD-1848,2024-11-21,North,Smartwatch,Electronics,1669.96,10,324.54,0.1943,Nov-2024
+ORD-1849,2024-02-14,North,Paper,Office Supplies,126.61,7,43.35,0.3424,Feb-2024
+ORD-1850,2024-04-06,West,Headphones,Electronics,1948.29,9,440.16,0.2259,Apr-2024
+ORD-1851,2025-01-12,North,Stapler,Office Supplies,221.44,10,56.94,0.2571,Jan-2025
+ORD-1852,2025-02-16,South,Smartphone,Electronics,2100.71,9,676.15,0.3219,Feb-2025
+ORD-1853,2024-02-01,South,Pen,Office Supplies,20.49,1,5.49,0.2679,Feb-2024
+ORD-1854,2024-01-06,South,Paper,Office Supplies,43.02,2,10.24,0.238,Jan-2024
+ORD-1855,2024-07-27,North,Sofa,Furniture,1538.64,10,512.74,0.3332,Jul-2024
+ORD-1856,2024-07-26,North,Binder,Office Supplies,17.55,1,3.82,0.2177,Jul-2024
+ORD-1857,2024-05-09,West,Desk,Furniture,1449.29,9,154.11,0.1063,May-2024
+ORD-1858,2024-07-21,South,Smartwatch,Electronics,954.72,5,114.71,0.1202,Jul-2024
+ORD-1859,2025-02-27,North,Smartwatch,Electronics,1444.35,9,319.15,0.221,Feb-2025
+ORD-1860,2024-11-13,North,Smartphone,Electronics,1028.16,5,252.3,0.2454,Nov-2024
+ORD-1861,2024-07-21,Central,Laptop,Electronics,1278.13,7,153.68,0.1202,Jul-2024
+ORD-1862,2025-02-04,South,Bookshelf,Furniture,779.81,5,117.22,0.1503,Feb-2025
+ORD-1863,2024-01-14,North,Tablet,Electronics,400.32,2,98.39,0.2458,Jan-2024
+ORD-1864,2024-02-16,East,Smartwatch,Electronics,1149.05,5,139.93,0.1218,Feb-2024
+ORD-1865,2024-01-26,North,Table,Furniture,146.69,1,32.6,0.2222,Jan-2024
+ORD-1866,2024-10-24,East,Tablet,Electronics,194.47,1,34.62,0.178,Oct-2024
+ORD-1867,2024-05-10,East,Laptop,Electronics,716.58,3,213.41,0.2978,May-2024
+ORD-1868,2024-04-27,West,Smartphone,Electronics,161.6,1,18.69,0.1157,Apr-2024
+ORD-1869,2024-05-23,South,Tablet,Electronics,1264.68,6,185.41,0.1466,May-2024
+ORD-1870,2024-08-20,East,Table,Furniture,1043.57,7,111.37,0.1067,Aug-2024
+ORD-1871,2024-07-30,East,Laptop,Electronics,388.34,2,84.96,0.2188,Jul-2024
+ORD-1872,2024-05-19,South,Smartwatch,Electronics,1715.63,8,457.53,0.2667,May-2024
+ORD-1873,2024-05-28,West,Table,Furniture,1273.3,9,233.54,0.1834,May-2024
+ORD-1874,2024-12-02,West,Bookshelf,Furniture,654.75,4,163.73,0.2501,Dec-2024
+ORD-1875,2024-09-24,South,Sofa,Furniture,352.41,2,80.67,0.2289,Sep-2024
+ORD-1876,2024-07-10,West,Table,Furniture,675.78,4,168.49,0.2493,Jul-2024
+ORD-1877,2024-02-20,East,Bookshelf,Furniture,626.44,5,184.3,0.2942,Feb-2024
+ORD-1878,2024-03-09,East,Binder,Office Supplies,219.19,10,65.16,0.2973,Mar-2024
+ORD-1879,2024-01-09,East,Smartphone,Electronics,1633.2,10,294.82,0.1805,Jan-2024
+ORD-1880,2024-09-23,South,Headphones,Electronics,1653.75,7,462.74,0.2798,Sep-2024
+ORD-1881,2024-05-19,West,Paper,Office Supplies,203.16,9,25.47,0.1254,May-2024
+ORD-1882,2024-08-10,East,Tablet,Electronics,1456.33,7,206.16,0.1416,Aug-2024
+ORD-1883,2024-04-15,Central,Chair,Furniture,619.84,4,81.22,0.131,Apr-2024
+ORD-1884,2024-01-12,North,Table,Furniture,789.13,6,210.44,0.2667,Jan-2024
+ORD-1885,2025-01-17,West,Laptop,Electronics,1458.97,8,195.64,0.1341,Jan-2025
+ORD-1886,2024-08-15,South,Tablet,Electronics,1775.63,8,348.71,0.1964,Aug-2024
+ORD-1887,2024-09-09,South,Smartwatch,Electronics,331.16,2,107.08,0.3233,Sep-2024
+ORD-1888,2024-12-08,North,Laptop,Electronics,1361.48,6,429.71,0.3156,Dec-2024
+ORD-1889,2024-03-26,West,Table,Furniture,919.01,6,262.07,0.2852,Mar-2024
+ORD-1890,2025-02-11,East,Desk,Furniture,1046.21,8,178.21,0.1703,Feb-2025
+ORD-1891,2024-02-08,North,Paper,Office Supplies,176.01,8,37.7,0.2142,Feb-2024
+ORD-1892,2024-10-30,South,Paper,Office Supplies,199.35,9,23.02,0.1155,Oct-2024
+ORD-1893,2024-10-08,North,Paper,Office Supplies,147.8,9,45.6,0.3085,Oct-2024
+ORD-1894,2024-10-13,North,Laptop,Electronics,336.09,2,66.65,0.1983,Oct-2024
+ORD-1895,2024-03-24,East,Paper,Office Supplies,127.38,6,23.89,0.1875,Mar-2024
+ORD-1896,2024-03-12,Central,Bookshelf,Furniture,629.85,5,183.7,0.2917,Mar-2024
+ORD-1897,2024-05-18,South,Table,Furniture,603.99,4,103.37,0.1711,May-2024
+ORD-1898,2024-03-29,West,Sofa,Furniture,294.68,2,64.98,0.2205,Mar-2024
+ORD-1899,2024-10-05,East,Chair,Furniture,1161.19,8,149.01,0.1283,Oct-2024
+ORD-1900,2024-01-18,North,Laptop,Electronics,1079.88,6,200.66,0.1858,Jan-2024
+ORD-1901,2024-03-30,East,Table,Furniture,241.92,2,82.48,0.3409,Mar-2024
+ORD-1902,2024-03-17,Central,Bookshelf,Furniture,241.27,2,47.9,0.1985,Mar-2024
+ORD-1903,2024-03-28,West,Folder,Office Supplies,173.26,9,55.44,0.32,Mar-2024
+ORD-1904,2024-01-05,East,Bookshelf,Furniture,1150.9,9,204.2,0.1774,Jan-2024
+ORD-1905,2024-12-27,West,Folder,Office Supplies,94.92,5,14.45,0.1522,Dec-2024
+ORD-1906,2024-04-17,South,Smartwatch,Electronics,1302.66,7,282.86,0.2171,Apr-2024
+ORD-1907,2024-08-24,North,Stapler,Office Supplies,165.32,7,30.66,0.1855,Aug-2024
+ORD-1908,2024-09-11,West,Stapler,Office Supplies,162.75,10,34.41,0.2114,Sep-2024
+ORD-1909,2024-12-22,North,Tablet,Electronics,1165.29,5,229.55,0.197,Dec-2024
+ORD-1910,2024-11-07,East,Laptop,Electronics,440.23,2,147.62,0.3353,Nov-2024
+ORD-1911,2025-01-02,South,Sofa,Furniture,1457.19,10,374.68,0.2571,Jan-2025
+ORD-1912,2024-03-11,North,Headphones,Electronics,1625.96,10,258.36,0.1589,Mar-2024
+ORD-1913,2025-02-02,Central,Headphones,Electronics,1095.73,6,192.98,0.1761,Feb-2025
+ORD-1914,2024-01-04,South,Tablet,Electronics,448.29,2,93.53,0.2086,Jan-2024
+ORD-1915,2024-03-01,Central,Sofa,Furniture,457.66,3,120.55,0.2634,Mar-2024
+ORD-1916,2024-08-13,North,Bookshelf,Furniture,1152.01,9,185.05,0.1606,Aug-2024
+ORD-1917,2024-01-28,South,Laptop,Electronics,1895.48,10,504.08,0.2659,Jan-2024
+ORD-1918,2024-09-29,East,Binder,Office Supplies,213.92,10,22.28,0.1042,Sep-2024
+ORD-1919,2024-10-20,West,Headphones,Electronics,1861.41,9,305.46,0.1641,Oct-2024
+ORD-1920,2024-02-18,East,Paper,Office Supplies,162.96,7,45.52,0.2793,Feb-2024
+ORD-1921,2024-03-20,North,Stapler,Office Supplies,94.04,4,16.34,0.1738,Mar-2024
+ORD-1922,2025-02-17,West,Pen,Office Supplies,137.45,6,48.0,0.3492,Feb-2025
+ORD-1923,2024-05-03,North,Stapler,Office Supplies,174.52,8,55.59,0.3185,May-2024
+ORD-1924,2024-07-04,Central,Folder,Office Supplies,96.07,5,21.68,0.2257,Jul-2024
+ORD-1925,2024-02-06,Central,Stapler,Office Supplies,34.81,2,7.95,0.2284,Feb-2024
+ORD-1926,2024-11-03,East,Tablet,Electronics,1125.34,7,133.72,0.1188,Nov-2024
+ORD-1927,2024-02-03,South,Laptop,Electronics,1863.38,10,210.79,0.1131,Feb-2024
+ORD-1928,2025-01-12,South,Sofa,Furniture,453.88,3,59.53,0.1312,Jan-2025
+ORD-1929,2025-01-03,Central,Desk,Furniture,121.31,1,35.62,0.2936,Jan-2025
+ORD-1930,2024-07-03,West,Headphones,Electronics,668.04,3,68.56,0.1026,Jul-2024
+ORD-1931,2024-11-29,North,Desk,Furniture,179.2,1,29.16,0.1627,Nov-2024
+ORD-1932,2024-04-04,North,Laptop,Electronics,1178.15,5,134.67,0.1143,Apr-2024
+ORD-1933,2024-08-25,West,Chair,Furniture,642.84,5,157.47,0.245,Aug-2024
+ORD-1934,2024-07-16,North,Headphones,Electronics,239.9,1,27.29,0.1138,Jul-2024
+ORD-1935,2024-10-03,East,Headphones,Electronics,1756.49,9,399.8,0.2276,Oct-2024
+ORD-1936,2024-02-24,West,Laptop,Electronics,988.89,5,275.13,0.2782,Feb-2024
+ORD-1937,2024-07-16,East,Smartwatch,Electronics,232.77,1,23.64,0.1016,Jul-2024
+ORD-1938,2024-11-17,East,Paper,Office Supplies,235.39,10,69.92,0.297,Nov-2024
+ORD-1939,2024-10-09,South,Folder,Office Supplies,65.6,3,22.88,0.3488,Oct-2024
+ORD-1940,2025-01-07,East,Pen,Office Supplies,134.72,7,19.17,0.1423,Jan-2025
+ORD-1941,2025-02-12,Central,Bookshelf,Furniture,624.78,4,97.98,0.1568,Feb-2025
+ORD-1942,2024-11-02,Central,Table,Furniture,1440.72,9,192.09,0.1333,Nov-2024
+ORD-1943,2024-10-12,East,Pen,Office Supplies,18.78,1,3.91,0.2082,Oct-2024
+ORD-1944,2024-09-27,West,Headphones,Electronics,1342.39,6,247.66,0.1845,Sep-2024
+ORD-1945,2024-05-27,North,Smartphone,Electronics,178.88,1,24.31,0.1359,May-2024
+ORD-1946,2024-04-05,West,Table,Furniture,318.52,2,101.33,0.3181,Apr-2024
+ORD-1947,2024-03-22,West,Table,Furniture,1003.28,7,133.29,0.1329,Mar-2024
+ORD-1948,2025-01-27,East,Headphones,Electronics,612.08,3,139.85,0.2285,Jan-2025
+ORD-1949,2024-06-06,West,Folder,Office Supplies,208.01,9,29.15,0.1401,Jun-2024
+ORD-1950,2024-07-24,West,Tablet,Electronics,1368.94,8,392.65,0.2868,Jul-2024
+ORD-1951,2024-12-16,West,Desk,Furniture,240.82,2,70.07,0.291,Dec-2024
+ORD-1952,2024-12-24,South,Table,Furniture,1671.8,10,336.49,0.2013,Dec-2024
+ORD-1953,2024-10-23,East,Paper,Office Supplies,119.62,6,41.46,0.3466,Oct-2024
+ORD-1954,2024-06-27,South,Paper,Office Supplies,98.41,5,15.19,0.1544,Jun-2024
+ORD-1955,2024-08-01,South,Binder,Office Supplies,20.96,1,4.95,0.2362,Aug-2024
+ORD-1956,2024-01-04,South,Pen,Office Supplies,70.83,4,14.36,0.2027,Jan-2024
+ORD-1957,2025-01-27,East,Headphones,Electronics,956.37,5,329.1,0.3441,Jan-2025
+ORD-1958,2024-09-15,West,Smartwatch,Electronics,1738.63,8,329.76,0.1897,Sep-2024
+ORD-1959,2024-02-25,West,Smartwatch,Electronics,878.91,4,90.66,0.1032,Feb-2024
+ORD-1960,2024-09-18,North,Headphones,Electronics,216.13,1,22.14,0.1024,Sep-2024
+ORD-1961,2024-06-28,South,Binder,Office Supplies,195.53,10,26.25,0.1343,Jun-2024
+ORD-1962,2024-11-18,East,Bookshelf,Furniture,1396.68,8,437.09,0.3129,Nov-2024
+ORD-1963,2024-01-13,North,Smartwatch,Electronics,1573.1,8,313.36,0.1992,Jan-2024
+ORD-1964,2025-01-08,Central,Binder,Office Supplies,149.36,8,36.57,0.2448,Jan-2025
+ORD-1965,2024-11-22,Central,Table,Furniture,604.5,4,68.18,0.1128,Nov-2024
+ORD-1966,2024-03-15,Central,Stapler,Office Supplies,46.87,2,6.15,0.1312,Mar-2024
+ORD-1967,2024-01-20,North,Table,Furniture,1379.15,9,240.65,0.1745,Jan-2024
+ORD-1968,2024-02-14,East,Desk,Furniture,884.61,7,260.05,0.294,Feb-2024
+ORD-1969,2024-05-09,West,Tablet,Electronics,226.75,1,55.4,0.2443,May-2024
+ORD-1970,2024-02-21,North,Table,Furniture,610.31,5,158.52,0.2597,Feb-2024
+ORD-1971,2025-01-07,Central,Sofa,Furniture,1359.07,10,282.69,0.208,Jan-2025
+ORD-1972,2024-10-26,South,Pen,Office Supplies,124.08,6,27.56,0.2221,Oct-2024
+ORD-1973,2024-01-02,Central,Headphones,Electronics,1059.82,5,335.96,0.317,Jan-2024
+ORD-1974,2024-10-27,West,Headphones,Electronics,2097.21,10,325.0,0.155,Oct-2024
+ORD-1975,2024-01-07,South,Stapler,Office Supplies,114.56,6,34.97,0.3053,Jan-2024
+ORD-1976,2024-02-22,South,Binder,Office Supplies,211.13,9,66.41,0.3145,Feb-2024
+ORD-1977,2024-06-27,West,Sofa,Furniture,1093.98,8,363.93,0.3327,Jun-2024
+ORD-1978,2024-04-06,South,Binder,Office Supplies,22.69,1,7.8,0.3438,Apr-2024
+ORD-1979,2024-02-15,South,Folder,Office Supplies,46.07,2,10.53,0.2286,Feb-2024
+ORD-1980,2024-10-17,West,Pen,Office Supplies,198.13,9,48.96,0.2471,Oct-2024
+ORD-1981,2024-07-09,East,Table,Furniture,1233.06,10,254.9,0.2067,Jul-2024
+ORD-1982,2024-07-06,Central,Paper,Office Supplies,36.99,2,8.56,0.2314,Jul-2024
+ORD-1983,2024-02-18,North,Paper,Office Supplies,94.21,5,25.5,0.2707,Feb-2024
+ORD-1984,2024-12-11,West,Desk,Furniture,120.72,1,16.29,0.1349,Dec-2024
+ORD-1985,2024-02-16,Central,Binder,Office Supplies,114.77,5,32.62,0.2842,Feb-2024
+ORD-1986,2024-03-30,South,Sofa,Furniture,1021.98,6,326.3,0.3193,Mar-2024
+ORD-1987,2024-09-20,North,Smartwatch,Electronics,1863.12,8,568.49,0.3051,Sep-2024
+ORD-1988,2024-09-04,West,Table,Furniture,1364.61,9,335.19,0.2456,Sep-2024
+ORD-1989,2024-04-03,South,Desk,Furniture,787.17,6,115.76,0.1471,Apr-2024
+ORD-1990,2025-01-08,Central,Chair,Furniture,1019.94,8,235.97,0.2314,Jan-2025
+ORD-1991,2024-06-14,Central,Smartphone,Electronics,1644.52,9,573.43,0.3487,Jun-2024
+ORD-1992,2024-03-30,Central,Pen,Office Supplies,175.47,8,47.17,0.2688,Mar-2024
+ORD-1993,2024-05-14,South,Headphones,Electronics,1703.89,10,458.43,0.269,May-2024
+ORD-1994,2025-01-07,East,Laptop,Electronics,1747.28,10,220.88,0.1264,Jan-2025
+ORD-1995,2024-03-07,Central,Desk,Furniture,248.49,2,65.87,0.2651,Mar-2024
+ORD-1996,2024-01-02,West,Desk,Furniture,684.2,4,117.36,0.1715,Jan-2024
+ORD-1997,2024-03-05,North,Headphones,Electronics,162.64,1,55.05,0.3385,Mar-2024
+ORD-1998,2024-04-14,East,Sofa,Furniture,1072.98,8,239.91,0.2236,Apr-2024
+ORD-1999,2025-02-13,Central,Laptop,Electronics,714.26,3,111.12,0.1556,Feb-2025
+ORD-2000,2024-01-16,East,Headphones,Electronics,1389.64,6,338.35,0.2435,Jan-2024
